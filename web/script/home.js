@@ -109,6 +109,22 @@ function(utils, call) {
                     elem    :_panel_quiniela,
                     data    : response
                 });
+
+
+                var _box_quiniela = document.querySelector(".box-quiniela");
+                var div = document.createElement('div');
+                div.id = 'panel-quiniela-create';
+                div.classList.add('panel-quiniela-create');
+
+                _box_quiniela.appendChild(div)
+
+                var _panel_quiniela_create = document.getElementById("panel-quiniela-create");
+                utils.mr({
+                    ns      :'base',
+                    tpl     :tpl_quiniela_create,
+                    elem    :_panel_quiniela_create,
+                    data    : response
+                });
             }
 
         }, function(error) {

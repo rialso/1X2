@@ -44,6 +44,10 @@ body {
     font-family: Verdana, Arial, Helvetica, sans-serif;
 }
 
+.panel-quiniela-create{
+  margin-top: 50px;
+}
+
 .box-quiniela{
 	width: 350px;
 	margin: 0 auto;

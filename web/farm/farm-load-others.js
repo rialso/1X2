@@ -34,6 +34,7 @@ farm.f.t = ({
         login           :'templates/login',
         home            :'templates/home',
         quiniela        :'templates/quiniela',
+        quiniela_create :'templates/quiniela_create',
 
 
         // Traducciones
