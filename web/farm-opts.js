@@ -45,7 +45,8 @@ farm.r = {
 
     lang_dir        :'languages/',
 
-    bk              :'http://localhost:3009/api/'
+    //bk              :'http://localhost:3009/api/'
+    bk              :'/api/'
 
     /*********************************/
 

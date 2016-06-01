@@ -1,17 +1,6 @@
 
-
-//var url = 'http://www.resultados-futbol.com/scripts/api/api.php';
-//var url = 'http://5.39.74.137/scripts/api/api.php';
-//var key = '94c694751928db22f60b189594f8c5b6';
-
 var c_api   = require('../config_api');
-//var tz      = 'Europe/Madrid';
-//var req     = 'quiniela';
-//var round = 38;
-
-
 var request = require("request");
-
 
 exports.quiniela = function(round){
 
