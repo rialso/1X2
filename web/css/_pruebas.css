@@ -1,0 +1,145 @@
+
+/*
+body > section{
+
+	background-color: white;
+	width: 100%;
+	height: 100%;
+	position: relative;
+
+}
+*/
+
+/*
+
+        .results-boxes .r0 span.result-box, .results-boxes-home .r0 span.result-box, .results-boxes-home15 .r0 span.result-box { background-image:url(https://img.quinielista.es/bkg_result0-up.png); }
+          .results-boxes .r1 span.result-box, .results-boxes-home .r1 span.result-box,.results-boxes-homeBase .r1 span.result-box-base, .results-boxes-home15 .r1 span.result-box { background-image:url(https://img.quinielista.es/bkg_result1-up.png); }
+          .results-boxes .rx span.result-box, .results-boxes-home .rx span.result-box,.results-boxes-homeBase .rx span.result-box-base, .results-boxes-home15 .rx span.result-box { background-image:url(https://img.quinielista.es/bkg_resultx-up.png); }
+          .results-boxes .r2 span.result-box, .results-boxes-home .r2 span.result-box,.results-boxes-homeBase .r2 span.result-box-base, .results-boxes-home15 .r2 span.result-box { background-image:url(https://img.quinielista.es/bkg_result2-up.png); }
+          .results-boxes .rM span.result-box, .results-boxes-home .rM span.result-box, .results-boxes-home15 .rM span.result-box { background-image:url(https://img.quinielista.es/bkg_resultM-up.png); }
+          .results-boxes .r0 span.result-box.active, .results-boxes-home .r0 span.result-box.active, .results-boxes-home15 .r0 span.result-box.active { background-image:url(https://img.quinielista.es/bkg_result0-down.png); }
+          .results-boxes .r1 span.result-box.active, .results-boxes-home .r1 span.result-box.active,.results-boxes-homeBase .r1 span.result-box-base.active, .results-boxes-home15 .r1 span.result-box.active { background-image:url(https://img.quinielista.es/bkg_result1-down.png); }
+          .results-boxes .rx span.result-box.active, .results-boxes-home .rx span.result-box.active,.results-boxes-homeBase .rx span.result-box-base.active, .results-boxes-home15 .rx span.result-box.active { background-image:url(https://img.quinielista.es/bkg_resultx-down.png); }
+          .results-boxes .r2 span.result-box.active, .results-boxes-home .r2 span.result-box.active,.results-boxes-homeBase .r2 span.result-box-base.active, .results-boxes-home15 .r2 span.result-box.active { background-image:url(https://img.quinielista.es/bkg_result2-down.png); }
+          .results-boxes .rM span.result-box.active, .results-boxes-home .rM span.result-box.active, .results-boxes-home15 .rM span.result-box.active { background-image:url(https://img.quinielista.es/bkg_resultM-down.png); }
+          
+          .results-boxes-estimate .r0 span.result-box { background-image:url(https://img.quinielista.es/bkg_result0-up.png); }
+          .results-boxes-estimate .r1 span.result-box { background-image:url(https://img.quinielista.es/bkg_result1-up.png); }
+          .results-boxes-estimate .rx span.result-box { background-image:url(https://img.quinielista.es/bkg_resultx-up.png); }
+          .results-boxes-estimate .r2 span.result-box { background-image:url(https://img.quinielista.es/bkg_result2-up.png); }
+          .results-boxes-estimate .rM span.result-box { background-image:url(https://img.quinielista.es/bkg_resultM-up.png); }
+          .results-boxes-estimate .r0 span.result-box.active { background-image:url(https://img.quinielista.es/bkg_result0-down.png); }
+          .results-boxes-estimate .r1 span.result-box.active { background-image:url(https://img.quinielista.es/bkg_result1-down.png); }
+          .results-boxes-estimate .rx span.result-box.active { background-image:url(https://img.quinielista.es/bkg_resultx-down.png); }
+          .results-boxes-estimate .r2 span.result-box.active { background-image:url(https://img.quinielista.es/bkg_result2-down.png); }
+          .results-boxes-estimate .rM span.result-box.active { background-image:url(https://img.quinielista.es/bkg_resultM-down.png); }
+
+          */
+
+
+
+body {
+    font-size: 1em;
+    color: #656565;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.box-quiniela{
+	width: 350px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+.quiniela {
+
+	font-size: 0.75em;
+    color: #656565;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+.quiniela ul {
+	list-style: none;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+}
+
+.quiniela .line{
+	line-height: 18px;
+}
+
+.quiniela .equipos {
+	width: 200px;
+}
+
+.quiniela .equipos .text {
+	max-width: 90px;
+	text-overflow:ellipsis;
+  	white-space:nowrap; 
+  	overflow:hidden;
+}
+
+.quiniela .order {
+	width: 20px;
+	text-align: right;
+	margin-right: 5px;
+}
+
+.quiniela .results-boxes {
+    margin-right: 3px;
+    /*cursor: pointer;*/
+}
+
+.results-boxes div {
+    margin-right: 1px;
+    /*cursor: pointer;*/
+    border: 1px solid #FA9D93;
+    width: 16px;
+    height: 18px;
+    text-align: center;
+    color: #FA9D93;
+}
+
+.results-boxes div.selected {
+    color: black;
+    font-weight: bold;
+    background-color: orange;
+
+}
+
+.quiniela .line-15 .equipos {
+	width: 183px;
+}
+
+.quiniela .line-15 .result,
+.quiniela .line-15 .order {
+
+	vertical-align: 10px;
+}
+
+.quiniela .border {
+    border-top: 1px solid #FA9D93;
+}
+
+.quiniela .equipos,
+.quiniela .equipos .text,
+.quiniela .order,
+.quiniela .results-boxes,
+.results-boxes div,
+.wrap-equipo-pleno,
+.quiniela .result {
+
+	display: inline-block;
+
+}
+
+
+
+.quiniela .order,
+.quiniela .text,
+.quiniela .result {
+
+	vertical-align: text-bottom;
+}

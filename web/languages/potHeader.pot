@@ -1,0 +1,17 @@
+# Translations for Vicens Vives package.
+# Copyright (C) 2015 Vicens Vives
+# This file is distributed under the same license as the Vicens Vives package.
+# Automatically generated, 2015.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: EduBook v1.0\n"
+"Report-Msgid-Bugs-To: it@vicenvivesdigital.com\n"
+"POT-Creation-Date: 2012-05-30 07:00+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"

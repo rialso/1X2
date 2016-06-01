@@ -1,0 +1,2292 @@
+# Galician translations for Package Name Package package.
+# Copyright (C) 2016 copyright Holder
+# This file is distributed under the same license as the Package Name Package package.
+# Automatically generated, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Package Name Package Version\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-30 15:05+0200\n"
+"PO-Revision-Date: 2016-03-30 15:04+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: gl_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, fuzzy
+msgid ""
+"\"<b>Edubook</b> nos ha permitido incorporar las nuevas tecnologías de forma "
+"progresiva y sencilla. Nos ha facilitado un sistema que se adapta a nuestras "
+"necesidades y recursos.\""
+msgstr ""
+"\"<b>Edubook</b> nos ha permitido incorporar las nuevas tecnologías de forma "
+"progresiva y sencilla. Nos ha facilitado un sistema que se adapta a nuestras "
+"necesidades y recursos.\""
+
+#, fuzzy
+msgid "/aplicaciones"
+msgstr "/aplicaciones"
+
+#, fuzzy
+msgid "/aplicaciones/PDI"
+msgstr "/aplicaciones/PDI"
+
+#, fuzzy
+msgid "/aplicaciones/escritorio"
+msgstr "/aplicaciones/escritorio"
+
+#, fuzzy
+msgid "/aplicaciones/moodle"
+msgstr "/aplicaciones/moodle"
+
+#, fuzzy
+msgid "/aula"
+msgstr "/aula"
+
+#, fuzzy
+msgid "/caracteristicas"
+msgstr "/caracteristicas"
+
+#, fuzzy
+msgid "/demo"
+msgstr "/demo"
+
+#, fuzzy
+msgid "/demo/gracias"
+msgstr "/demo/gracias"
+
+#, fuzzy
+msgid "/inicio"
+msgstr "/inicio"
+
+#, fuzzy
+msgid "/legal"
+msgstr "/legal"
+
+#, fuzzy
+msgid "/licencia-digital"
+msgstr "/licencia-digital"
+
+#, fuzzy
+msgid "/registro"
+msgstr "/registro"
+
+#, fuzzy
+msgid "/registro/alumno"
+msgstr "/registro/alumno"
+
+#, fuzzy
+msgid "/registro/alumno-menor/datos-alumno"
+msgstr "/registro/alumno-menor/datos-alumno"
+
+#, fuzzy
+msgid "/registro/alumno-menor/datos-familiar"
+msgstr "/registro/alumno-menor/datos-familiar"
+
+#, fuzzy
+msgid "/registro/docente"
+msgstr "/registro/docente"
+
+#, fuzzy
+msgid "1. Titularidad de la página web"
+msgstr "1. Titularidad de la página web"
+
+#, fuzzy
+msgid "10. Baja del servicio"
+msgstr "10. Baja del servicio"
+
+#, fuzzy
+msgid "11. Uso de cookies"
+msgstr "11. Uso de cookies"
+
+#, fuzzy
+msgid "12. Legislación y jurisdicción aplicable"
+msgstr "12. Legislación y jurisdicción aplicable"
+
+#, fuzzy
+msgid "2. Propiedad intelectual e industrial de la web"
+msgstr "2. Propiedad intelectual e industrial de la web"
+
+#, fuzzy
+msgid "3. Actualización y modificación de la web"
+msgstr "3. Actualización y modificación de la web"
+
+#, fuzzy
+msgid "4. Indicaciones sobre aspectos técnicos"
+msgstr "4. Indicaciones sobre aspectos técnicos"
+
+#, fuzzy
+msgid "404"
+msgstr "404"
+
+#, fuzzy
+msgid "5 plugins que usan el protocolo LTI:"
+msgstr "5 plugins que usan el protocolo LTI:"
+
+#, fuzzy
+msgid "5. Política de Privacidad y tratamiento de datos de carácter personal"
+msgstr "5. Política de Privacidad y tratamiento de datos de carácter personal"
+
+#, fuzzy
+msgid "6. Registro de usuarios"
+msgstr "6. Registro de usuarios"
+
+#, fuzzy
+msgid "6.1. Registro de usuarios menores de 14 años"
+msgstr "6.1. Registro de usuarios menores de 14 años"
+
+#, fuzzy
+msgid "7. Suplantación de perfiles"
+msgstr "7. Suplantación de perfiles"
+
+#, fuzzy
+msgid "8. Seguridad del perfil"
+msgstr "8. Seguridad del perfil"
+
+#, fuzzy
+msgid "9. Publicidad"
+msgstr "9. Publicidad"
+
+msgid "::::"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"<b>Cookies de análisis:</b> Son aquéllas utilizadas por VICENS VIVES y "
+"Google Analytics, que permiten cuantificar el número de usuarios y así "
+"realizar la medición y análisis estadístico de la utilización y actividad "
+"que hacen los usuarios de VICENS VIVES, así como elaborar perfiles de "
+"navegación de los usuarios en dichas páginas y en las aplicaciones, todo "
+"ello con el fin de introducir mejoras."
+msgstr ""
+"<b>Cookies de análisis:</b> Son aquéllas utilizadas por VICENS VIVES y "
+"Google Analytics, que permiten cuantificar el número de usuarios y así "
+"realizar la medición y análisis estadístico de la utilización y actividad "
+"que hacen los usuarios de VICENS VIVES, así como elaborar perfiles de "
+"navegación de los usuarios en dichas páginas y en las aplicaciones, todo "
+"ello con el fin de introducir mejoras."
+
+#, fuzzy
+msgid ""
+"<b>Cookies de personalización:</b> Son aquellas utilizadas por VICENS VIVES "
+"que permiten al usuario acceder al servicio con algunas características de "
+"carácter general predefinidas en función de una serie de criterios en el "
+"terminal del usuario como, por ejemplo, el idioma, el tipo de navegador a "
+"través del cual se accede al servicio, la configuración regional desde donde "
+"se accede, etc."
+msgstr ""
+"<b>Cookies de personalización:</b> Son aquellas utilizadas por VICENS VIVES "
+"que permiten al usuario acceder al servicio con algunas características de "
+"carácter general predefinidas en función de una serie de criterios en el "
+"terminal del usuario como, por ejemplo, el idioma, el tipo de navegador a "
+"través del cual se accede al servicio, la configuración regional desde donde "
+"se accede, etc."
+
+#, fuzzy
+msgid ""
+"<b>Cookies técnicas:</b> Son aquéllas utilizadas por VICENS VIVES que "
+"permiten al usuario la navegación a través de la página web y la utilización "
+"de las diferentes opciones o servicios que en ella existen como, por "
+"ejemplo, controlar el tráfico y la comunicación de datos, identificar la "
+"sesión, acceder a partes de acceso restringido, recordar los elementos que "
+"integran un pedido, realizar el proceso de compra de un pedido, realizar la "
+"solicitud de inscripción o participación en un evento, utilizar elementos de "
+"seguridad durante la navegación o almacenar, difundir y/o compartir "
+"contenidos."
+msgstr ""
+"<b>Cookies técnicas:</b> Son aquéllas utilizadas por VICENS VIVES que "
+"permiten al usuario la navegación a través de la página web y la utilización "
+"de las diferentes opciones o servicios que en ella existen como, por "
+"ejemplo, controlar el tráfico y la comunicación de datos, identificar la "
+"sesión, acceder a partes de acceso restringido, recordar los elementos que "
+"integran un pedido, realizar el proceso de compra de un pedido, realizar la "
+"solicitud de inscripción o participación en un evento, utilizar elementos de "
+"seguridad durante la navegación o almacenar, difundir y/o compartir "
+"contenidos."
+
+#, fuzzy
+msgid ""
+"<b>Debes ser mayor de 14 años.</b><br>Si eres menor de 14 años, tendrá que "
+"crearte la cuenta tu familiar."
+msgstr ""
+"<b>Debes ser mayor de 14 años.</b><br>Si eres menor de 14 años, tendrá que "
+"crearte la cuenta tu familiar."
+
+#, fuzzy
+msgid ""
+"<b>Si eres alumno</b>, o necesitas el código de licencia para tu hijo/a, lo "
+"encontrarás:"
+msgstr ""
+"<b>Si eres alumno</b>, o necesitas el código de licencia para tu hijo/a, lo "
+"encontrarás:"
+
+#, fuzzy
+msgid ""
+"A diferencia del libro en papel, en Edubook se acompaña el contenido teórico "
+"con imágenes, vídeos, audios, animaciones, enlaces y mapas que enriquecen "
+"las explicaciones."
+msgstr ""
+"A diferencia del libro en papel, en Edubook se acompaña el contenido teórico "
+"con imágenes, vídeos, audios, animaciones, enlaces y mapas que enriquecen "
+"las explicaciones."
+
+#, fuzzy
+msgid ""
+"A parte del libro de texto, Edubook ofrece una gran variedad de recursos "
+"para el profesorado para facilitar la gestión y preparación de las clases. "
+"Guías didácticas, propuestas curriculares, recursos para la atención a la "
+"diversidad y todo el material de apoyo se encuentra disponible a un solo "
+"clic."
+msgstr ""
+"A parte del libro de texto, Edubook ofrece una gran variedad de recursos "
+"para el profesorado para facilitar la gestión y preparación de las clases. "
+"Guías didácticas, propuestas curriculares, recursos para la atención a la "
+"diversidad y todo el material de apoyo se encuentra disponible a un solo "
+"clic."
+
+#, fuzzy
+msgid "Accede a los recursos para el profesor."
+msgstr "Accede a los recursos para el profesor."
+
+#, fuzzy
+msgid ""
+"Accede a nuestra <a href=\"http://www.vicensvivesonline.com/es/libro-"
+"digital/4\">tienda online</a> y compra el libro digital que necesites. Al "
+"finalizar la compra recibirás un correo electrónico con el código de "
+"licencia."
+msgstr ""
+"Accede a nuestra <a href=\"http://www.vicensvivesonline.com/es/libro-"
+"digital/4\">tienda online</a> y compra el libro digital que necesites. Al "
+"finalizar la compra recibirás un correo electrónico con el código de "
+"licencia."
+
+#, fuzzy
+msgid "Actividades"
+msgstr "Actividades"
+
+#, fuzzy
+msgid ""
+"Actividades autocorrectivas y abiertas para potenciar el aprendizaje "
+"personalizado."
+msgstr ""
+"Actividades autocorrectivas y abiertas para potenciar el aprendizaje "
+"personalizado."
+
+#, fuzzy
+msgid "Actividades interactivas"
+msgstr "Actividades interactivas"
+
+#, fuzzy
+msgid "Actividades interactivas."
+msgstr "Actividades interactivas."
+
+#, fuzzy
+msgid "Adaptado a los diferentes dispositivos y sistemas operativos"
+msgstr "Adaptado a los diferentes dispositivos y sistemas operativos"
+
+#, fuzzy
+msgid ""
+"Además, con Edubook es posible realizar anotaciones y añadir enlaces propios "
+"dentro del libro."
+msgstr ""
+"Además, con Edubook es posible realizar anotaciones y añadir enlaces propios "
+"dentro del libro."
+
+#, fuzzy
+msgid ""
+"Además, desde Vicens Vives ofrecemos <b>apoyo constante durante todo el "
+"proceso</b>. Tanto en la gestión de licencias, altas de alumnos, creación de "
+"clases, etc. Como en la aplicación de Edubook en el aula."
+msgstr ""
+"Además, desde Vicens Vives ofrecemos <b>apoyo constante durante todo el "
+"proceso</b>. Tanto en la gestión de licencias, altas de alumnos, creación de "
+"clases, etc. Como en la aplicación de Edubook en el aula."
+
+#, fuzzy
+msgid ""
+"Además, hemos desarrollado 5 plugins que permiten la integración completa de "
+"Edubook con Moodle."
+msgstr ""
+"Además, hemos desarrollado 5 plugins que permiten la integración completa de "
+"Edubook con Moodle."
+
+#, fuzzy
+msgid "Administración del centro desde un único sitio"
+msgstr "Administración del centro desde un único sitio"
+
+#, fuzzy
+msgid ""
+"Al ser <b>multidispositivo</b> y estar disponible en modo offline, permite "
+"realizar las actividades desde cualquier lugar sin necesidad de conexión a "
+"internet."
+msgstr ""
+"Al ser <b>multidispositivo</b> y estar disponible en modo offline, permite "
+"realizar las actividades desde cualquier lugar sin necesidad de conexión a "
+"internet."
+
+#, fuzzy
+msgid "Alumno"
+msgstr "Alumno"
+
+#, fuzzy
+msgid "Amplia y personaliza el contenido del libro."
+msgstr "Amplia y personaliza el contenido del libro."
+
+#, fuzzy
+msgid "Android"
+msgstr "Android"
+
+#, fuzzy
+msgid ""
+"Android 3.2 y versiones superiores.<br>Clasificación del contenido PEGI 3."
+msgstr ""
+"Android 3.2 y versiones superiores.<br>Clasificación del contenido PEGI 3."
+
+#, fuzzy
+msgid ""
+"Aparte de la versión online de Edubook, contamos con aplicaciones para iOS y "
+"Android, versión de escritorio para Windows, Mac y Linux y versión offline "
+"para proyectar en la PDI (Pizarra Digital Interactiva)."
+msgstr ""
+"Aparte de la versión online de Edubook, contamos con aplicaciones para iOS y "
+"Android, versión de escritorio para Windows, Mac y Linux y versión offline "
+"para proyectar en la PDI (Pizarra Digital Interactiva)."
+
+#, fuzzy
+msgid "Apellidos"
+msgstr "Apellidos"
+
+#, fuzzy
+msgid "Aplicaciones"
+msgstr "Aplicaciones"
+
+#, fuzzy
+msgid "Apoyo técnico durante todo el proceso de implementación"
+msgstr "Apoyo técnico durante todo el proceso de implementación"
+
+#, fuzzy
+msgid "Asignación automática de licencias"
+msgstr "Asignación automática de licencias"
+
+#, fuzzy
+msgid "Asignatura que impartes (Ej. Sociales)"
+msgstr "Asignatura que impartes (Ej. Sociales)"
+
+#, fuzzy
+msgid ""
+"Asimismo, los contenidos de la web, los recursos y sus metadatos son "
+"propiedad exclusiva de VICENS VIVES (exceptuando los contenidos de terceros "
+"a los que se accede mediante enlaces publicados en la web) y es a quien le "
+"corresponde el ejercicio exclusivo de los derechos de explotación de los "
+"mismos. Así, queda prohibida su reproducción, distribución, comunicación "
+"pública y modificación, total o parcial, sin previa autorización expresa de "
+"VICENS VIVES."
+msgstr ""
+"Asimismo, los contenidos de la web, los recursos y sus metadatos son "
+"propiedad exclusiva de VICENS VIVES (exceptuando los contenidos de terceros "
+"a los que se accede mediante enlaces publicados en la web) y es a quien le "
+"corresponde el ejercicio exclusivo de los derechos de explotación de los "
+"mismos. Así, queda prohibida su reproducción, distribución, comunicación "
+"pública y modificación, total o parcial, sin previa autorización expresa de "
+"VICENS VIVES."
+
+#, fuzzy
+msgid ""
+"Asimismo, los usuarios se obligan a no proporcionar datos falsos a VICENS "
+"VIVES ni suplantar identidad alguna. El incumplimiento de este extremo podrá "
+"suponer el bloqueo y/o cancelación de la cuenta de usuario de VICENS VIVES."
+msgstr ""
+"Asimismo, los usuarios se obligan a no proporcionar datos falsos a VICENS "
+"VIVES ni suplantar identidad alguna. El incumplimiento de este extremo podrá "
+"suponer el bloqueo y/o cancelación de la cuenta de usuario de VICENS VIVES."
+
+#, fuzzy
+msgid "Aviso legal y política de privacidad"
+msgstr "Aviso legal y política de privacidad"
+
+#, fuzzy
+msgid "Ayuda"
+msgstr "Ayuda"
+
+#, fuzzy
+msgid "Bloque de creación de cursos"
+msgstr "Bloque de creación de cursos"
+
+#, fuzzy
+msgid "Bloque de creación de cursos."
+msgstr "Bloque de creación de cursos."
+
+#, fuzzy
+msgid "Bloque resúmen de licencias"
+msgstr "Bloque resúmen de licencias"
+
+#, fuzzy
+msgid "Bloque resúmen de licencias."
+msgstr "Bloque resúmen de licencias."
+
+#, fuzzy
+msgid "Books"
+msgstr "Books"
+
+#, fuzzy
+msgid "Características"
+msgstr "Características"
+
+#, fuzzy
+msgid "Català"
+msgstr "Català"
+
+#, fuzzy
+msgid "Centro"
+msgstr "Centro"
+
+#, fuzzy
+msgid "Chevron"
+msgstr "Chevron"
+
+#, fuzzy
+msgid ""
+"Compatible con todos los navegadores: <b>Chrome</b>, <b>Firefox</b>, "
+"<b>Safari</b>, <b>Explorer</b>."
+msgstr ""
+"Compatible con todos los navegadores: <b>Chrome</b>, <b>Firefox</b>, "
+"<b>Safari</b>, <b>Explorer</b>."
+
+#, fuzzy
+msgid "Complementa tus clases con miles de recursos gratuitos"
+msgstr "Complementa tus clases con miles de recursos gratuitos"
+
+#, fuzzy
+msgid ""
+"Completa este formulario y un delegado pedagógico de Vicens Vives se pondrá "
+"en contacto contigo."
+msgstr ""
+"Completa este formulario y un delegado pedagógico de Vicens Vives se pondrá "
+"en contacto contigo."
+
+#, fuzzy
+msgid "Completo sistema de calificaciones"
+msgstr "Completo sistema de calificaciones"
+
+#, fuzzy
+msgid ""
+"Con Edubook no dispondrás sólo del contenido curricular del libro de texto, "
+"sino que podrás consultar las <b>guías didácticas, propuestas curriculares, "
+"estándares de aprendizaje, recursos para la atención a la diversidad o "
+"propuestas de evaluación</b> para simplificar tu tarea docente y tener todo "
+"el apoyo que necesitas."
+msgstr ""
+"Con Edubook no dispondrás sólo del contenido curricular del libro de texto, "
+"sino que podrás consultar las <b>guías didácticas, propuestas curriculares, "
+"estándares de aprendizaje, recursos para la atención a la diversidad o "
+"propuestas de evaluación</b> para simplificar tu tarea docente y tener todo "
+"el apoyo que necesitas."
+
+#, fuzzy
+msgid ""
+"Con Edubook podrás personalizar y ampliar el contenido del libro con "
+"<b>anotaciones</b> y <b>enlaces externos</b>."
+msgstr ""
+"Con Edubook podrás personalizar y ampliar el contenido del libro con "
+"<b>anotaciones</b> y <b>enlaces externos</b>."
+
+#, fuzzy
+msgid "Con actividades autocorrectivas y actividades abiertas"
+msgstr "Con actividades autocorrectivas y actividades abiertas"
+
+#, fuzzy
+msgid ""
+"Con carácter general, las relaciones con los usuarios derivadas de la "
+"prestación de servicios contenidos en esta web están sometidos a la "
+"legislación y jurisdicción española, concretamente a los Juzgados y "
+"Tribunales de la ciudad de Barcelona. Los usuarios de esta web son "
+"conscientes de todo lo que se ha expuesto y lo aceptan voluntariamente."
+msgstr ""
+"Con carácter general, las relaciones con los usuarios derivadas de la "
+"prestación de servicios contenidos en esta web están sometidos a la "
+"legislación y jurisdicción española, concretamente a los Juzgados y "
+"Tribunales de la ciudad de Barcelona. Los usuarios de esta web son "
+"conscientes de todo lo que se ha expuesto y lo aceptan voluntariamente."
+
+#, fuzzy
+msgid "Con la garantía de calidad pedagógica de Vicens Vives."
+msgstr "Con la garantía de calidad pedagógica de Vicens Vives."
+
+#, fuzzy
+msgid "Con o sin conexión a internet"
+msgstr "Con o sin conexión a internet"
+
+#, fuzzy
+msgid "Con recursos didácticos exclusivos para mejorar la enseñanza."
+msgstr "Con recursos didácticos exclusivos para mejorar la enseñanza."
+
+#, fuzzy
+msgid "Con todo el apoyo didáctico que necesitas"
+msgstr "Con todo el apoyo didáctico que necesitas"
+
+#, fuzzy
+msgid ""
+"Con un solo clic puedes crear un curso en tu Moodle correspondiente a un "
+"libro de Edubook, manteniendo la estructura del libro y todos sus elementos: "
+"teoría, actividades, documentos, enlaces, etc."
+msgstr ""
+"Con un solo clic puedes crear un curso en tu Moodle correspondiente a un "
+"libro de Edubook, manteniendo la estructura del libro y todos sus elementos: "
+"teoría, actividades, documentos, enlaces, etc."
+
+#, fuzzy
+msgid "Conoce Tiching"
+msgstr "Conoce Tiching"
+
+#, fuzzy
+msgid "Conseguir licencia"
+msgstr "Conseguir licencia"
+
+#, fuzzy
+msgid ""
+"Consulta las calificaciones de los cursos de Edubook de forma más cómoda y "
+"ordenada."
+msgstr ""
+"Consulta las calificaciones de los cursos de Edubook de forma más cómoda y "
+"ordenada."
+
+#, fuzzy
+msgid ""
+"Contacta con tu delegado pedagógico de Vicens Vives para que pueda generar "
+"los códigos de licencia necesarios para tus clases."
+msgstr ""
+"Contacta con tu delegado pedagógico de Vicens Vives para que pueda generar "
+"los códigos de licencia necesarios para tus clases."
+
+#, fuzzy
+msgid "Contenido interactivo"
+msgstr "Contenido interactivo"
+
+#, fuzzy
+msgid "Contraseña"
+msgstr "Contraseña"
+
+#, fuzzy
+msgid "Contáctanos"
+msgstr "Contáctanos"
+
+#, fuzzy
+msgid "Correo electrónico"
+msgstr "Correo electrónico"
+
+#, fuzzy
+msgid "Correo electrónico o nombre de usuario"
+msgstr "Correo electrónico o nombre de usuario"
+
+#, fuzzy
+msgid "Crea cursos de Moodle con los libros de Edubook de forma sencilla."
+msgstr "Crea cursos de Moodle con los libros de Edubook de forma sencilla."
+
+#, fuzzy
+msgid ""
+"Cuando el usuario facilita sus datos de carácter personal, a través de los "
+"distintos formularios de registro, está autorizando expresamente a VICENS "
+"VIVES al tratamiento automatizado de sus Datos Personales para poder atender "
+"sus peticiones de servicios presentes y futuros. Además, para mejorar la "
+"calidad del funcionamiento de la plataforma y de los servicios ofrecidos, "
+"estos datos podrán ser utilizados por VICENS VIVES para remitir a los "
+"usuarios distintas comunicaciones y notificaciones relacionados con "
+"actualizaciones y mejoras de los servicios y novedades que ofrece VICENS "
+"VIVES."
+msgstr ""
+"Cuando el usuario facilita sus datos de carácter personal, a través de los "
+"distintos formularios de registro, está autorizando expresamente a VICENS "
+"VIVES al tratamiento automatizado de sus Datos Personales para poder atender "
+"sus peticiones de servicios presentes y futuros. Además, para mejorar la "
+"calidad del funcionamiento de la plataforma y de los servicios ofrecidos, "
+"estos datos podrán ser utilizados por VICENS VIVES para remitir a los "
+"usuarios distintas comunicaciones y notificaciones relacionados con "
+"actualizaciones y mejoras de los servicios y novedades que ofrece VICENS "
+"VIVES."
+
+#, fuzzy
+msgid ""
+"Cuando un usuario menor de 14 años quiere formar parte de VICENS VIVES, ya "
+"sea por voluntad propia, porque lo han requerido en su escuela o porque sus "
+"familiares así lo han decidido, el sistema solicita a un familiar del menor "
+"que realice el proceso de registro en nombre y representación del menor."
+msgstr ""
+"Cuando un usuario menor de 14 años quiere formar parte de VICENS VIVES, ya "
+"sea por voluntad propia, porque lo han requerido en su escuela o porque sus "
+"familiares así lo han decidido, el sistema solicita a un familiar del menor "
+"que realice el proceso de registro en nombre y representación del menor."
+
+#, fuzzy
+msgid ""
+"Cuando un usuario se dé de baja en el sistema, sus datos serán cancelados y "
+"conservados en los sistemas de información de VICENS VIVES durante 12 meses. "
+"Esta información no será accesible ni podrá ser utilizada por ningún usuario."
+msgstr ""
+"Cuando un usuario se dé de baja en el sistema, sus datos serán cancelados y "
+"conservados en los sistemas de información de VICENS VIVES durante 12 meses. "
+"Esta información no será accesible ni podrá ser utilizada por ningún usuario."
+
+#, fuzzy
+msgid "Curso (Ej. 4to ESO)"
+msgstr "Curso (Ej. 4to ESO)"
+
+#, fuzzy
+msgid "Código de tu centro educativo"
+msgstr "Código de tu centro educativo"
+
+#, fuzzy
+msgid "Código incorrecto"
+msgstr "Código incorrecto"
+
+#, fuzzy
+msgid "Código postal"
+msgstr "Código postal"
+
+#, fuzzy
+msgid ""
+"De igual forma, no se responsabiliza de posibles daños y perjuicios que "
+"puedan afectar al usuario como consecuencia de errores, defectos, u "
+"omisiones en la información que facilitada erróneamente por el propio "
+"usuario o por terceros."
+msgstr ""
+"De igual forma, no se responsabiliza de posibles daños y perjuicios que "
+"puedan afectar al usuario como consecuencia de errores, defectos, u "
+"omisiones en la información que facilitada erróneamente por el propio "
+"usuario o por terceros."
+
+#, fuzzy
+msgid "Desarrollo en HTML."
+msgstr "Desarrollo en HTML."
+
+#, fuzzy
+msgid "Descarga tu aplicación de escritorio para:"
+msgstr "Descarga tu aplicación de escritorio para:"
+
+#, fuzzy
+msgid "Descarga tu aplicación para:"
+msgstr "Descarga tu aplicación para:"
+
+#, fuzzy
+msgid "Descargar 2.3"
+msgstr "Descargar 2.3"
+
+#, fuzzy
+msgid "Descargar 2.5"
+msgstr "Descargar 2.5"
+
+#, fuzzy
+msgid "Descargar 2.6"
+msgstr "Descargar 2.6"
+
+#, fuzzy
+msgid "Descargar 2.7"
+msgstr "Descargar 2.7"
+
+#, fuzzy
+msgid "Descargar 2.8"
+msgstr "Descargar 2.8"
+
+#, fuzzy
+msgid "Descargar 64 Bits"
+msgstr "Descargar 64 Bits"
+
+#, fuzzy
+msgid "Descargar plugins"
+msgstr "Descargar plugins"
+
+#, fuzzy
+msgid ""
+"Descubre cómo enseñar con los mejores contenidos desde un entorno digital y "
+"adaptarlos al proceso de aprendizaje de cada alumno."
+msgstr ""
+"Descubre cómo enseñar con los mejores contenidos desde un entorno digital y "
+"adaptarlos al proceso de aprendizaje de cada alumno."
+
+#, fuzzy
+msgid "Descubre el entorno digital de Vicens Vives"
+msgstr "Descubre el entorno digital de Vicens Vives"
+
+#, fuzzy
+msgid "Descubre las posibilidades de la PDI"
+msgstr "Descubre las posibilidades de la PDI"
+
+#, fuzzy
+msgid "Descubre los Plugins de Edubook"
+msgstr "Descubre los Plugins de Edubook"
+
+#, fuzzy
+msgid "Descúbrela"
+msgstr "Descúbrela"
+
+#, fuzzy
+msgid ""
+"Desde Edubook es posible gestionar las licencias, acceder a todos los libros "
+"guardados en la biblioteca y ver las calificaciones del alumnado según la "
+"clase en la que esté matriculado."
+msgstr ""
+"Desde Edubook es posible gestionar las licencias, acceder a todos los libros "
+"guardados en la biblioteca y ver las calificaciones del alumnado según la "
+"clase en la que esté matriculado."
+
+#, fuzzy
+msgid "Diseñado para el entorno digital"
+msgstr "Diseñado para el entorno digital"
+
+#, fuzzy
+msgid "Disponible con o sin conexión a internet"
+msgstr "Disponible con o sin conexión a internet"
+
+#, fuzzy
+msgid "Disponible en todos tus dispositivos"
+msgstr "Disponible en todos tus dispositivos"
+
+#, fuzzy
+msgid "Disponible para todos los dispositivos y sistemas operativos."
+msgstr "Disponible para todos los dispositivos y sistemas operativos."
+
+#, fuzzy
+msgid "Docente"
+msgstr "Docente"
+
+#, fuzzy
+msgid ""
+"Edubook dispone de actividades autocorrectivas y actividades abiertas que "
+"permitirán al alumnado avanzar a su propio ritmo y recibir una valoración "
+"inmediata."
+msgstr ""
+"Edubook dispone de actividades autocorrectivas y actividades abiertas que "
+"permitirán al alumnado avanzar a su propio ritmo y recibir una valoración "
+"inmediata."
+
+#, fuzzy
+msgid ""
+"Edubook está conectado con la red educativa Tiching que te permitirá acceder "
+"fácilmente a más de 700.000 recursos educativos gratuitos. Además, podrás "
+"conectar con docentes de todo el mundo y compartir las experiencias "
+"educativas más interesantes."
+msgstr ""
+"Edubook está conectado con la red educativa Tiching que te permitirá acceder "
+"fácilmente a más de 700.000 recursos educativos gratuitos. Además, podrás "
+"conectar con docentes de todo el mundo y compartir las experiencias "
+"educativas más interesantes."
+
+#, fuzzy
+msgid ""
+"Edubook está disponible para <b>todos los dispositivos y sistemas "
+"operativos</b>, permitiendo una integración sencilla dentro y fuera del aula."
+msgstr ""
+"Edubook está disponible para <b>todos los dispositivos y sistemas "
+"operativos</b>, permitiendo una integración sencilla dentro y fuera del aula."
+
+#, fuzzy
+msgid ""
+"Edubook ofrece un <b>espacio de aprendizaje</b> adaptado al entorno digital, "
+"que hará que los alumnos y alumnas se sientan cómodos y motivados."
+msgstr ""
+"Edubook ofrece un <b>espacio de aprendizaje</b> adaptado al entorno digital, "
+"que hará que los alumnos y alumnas se sientan cómodos y motivados."
+
+#, fuzzy
+msgid "Edubook para Moodle"
+msgstr "Edubook para Moodle"
+
+#, fuzzy
+msgid "Edubook para la Pizarra digital interactiva"
+msgstr "Edubook para la Pizarra digital interactiva"
+
+#, fuzzy
+msgid "Edubook para tu escritorio"
+msgstr "Edubook para tu escritorio"
+
+#, fuzzy
+msgid "Edubook se adapta a la realidad de cada aula"
+msgstr "Edubook se adapta a la realidad de cada aula"
+
+#, fuzzy
+msgid ""
+"Edubook se adapta a los diferentes dispositivos y sistemas operativos del "
+"mercado."
+msgstr ""
+"Edubook se adapta a los diferentes dispositivos y sistemas operativos del "
+"mercado."
+
+#, fuzzy
+msgid ""
+"Edubook se ha desarrollado con tecnología propia para garantizar su "
+"versatilidad y adaptabilidad a todos los dispositivos y sistemas operativos."
+msgstr ""
+"Edubook se ha desarrollado con tecnología propia para garantizar su "
+"versatilidad y adaptabilidad a todos los dispositivos y sistemas operativos."
+
+#, fuzzy
+msgid "Edubook, el entorno digital de Vicens Vives"
+msgstr "Edubook, el entorno digital de Vicens Vives"
+
+#, fuzzy
+msgid ""
+"El centro educativo podrá <b>solicitar las licencias digitales</b> de los "
+"libros y asignarlas tanto a alumnos como docentes."
+msgstr ""
+"El centro educativo podrá <b>solicitar las licencias digitales</b> de los "
+"libros y asignarlas tanto a alumnos como docentes."
+
+#, fuzzy
+msgid ""
+"El contenido educativo de Edubook es compatible con el libro de texto en "
+"papel. En cada actividad se indica su equivalente en el libro físico, "
+"facilitando el uso conjunto de ambos recursos."
+msgstr ""
+"El contenido educativo de Edubook es compatible con el libro de texto en "
+"papel. En cada actividad se indica su equivalente en el libro físico, "
+"facilitando el uso conjunto de ambos recursos."
+
+#, fuzzy
+msgid ""
+"El delegado pedagógico de tu zona se pondrá en contacto contigo para "
+"facilitarte una demo de Edubook."
+msgstr ""
+"El delegado pedagógico de tu zona se pondrá en contacto contigo para "
+"facilitarte una demo de Edubook."
+
+#, fuzzy
+msgid ""
+"El formato del curso de Moodle que se ha diseñado específicamente para "
+"Edubook facilita la utilización óptima del contenido del libro en Moodle."
+msgstr ""
+"El formato del curso de Moodle que se ha diseñado específicamente para "
+"Edubook facilita la utilización óptima del contenido del libro en Moodle."
+
+#, fuzzy
+msgid ""
+"El mejor contenido educativo con todas las ventajas del entorno digital."
+msgstr ""
+"El mejor contenido educativo con todas las ventajas del entorno digital."
+
+#, fuzzy
+msgid ""
+"El primer paso para poder registrar a un usuario menor de 14 años consiste "
+"en el registro del familiar que lo dará de alta en VICENS VIVES (con el "
+"perfil “familiar”). Una vez realizado este paso, los familiares podrán "
+"añadir menores de 14 años asociados a su perfil de usuario."
+msgstr ""
+"El primer paso para poder registrar a un usuario menor de 14 años consiste "
+"en el registro del familiar que lo dará de alta en VICENS VIVES (con el "
+"perfil “familiar”). Una vez realizado este paso, los familiares podrán "
+"añadir menores de 14 años asociados a su perfil de usuario."
+
+#, fuzzy
+msgid ""
+"El sistema de calificaciones de Edubook te permite hacer un <b>seguimiento "
+"personalizado</b> de cada alumno y del grupo clase."
+msgstr ""
+"El sistema de calificaciones de Edubook te permite hacer un <b>seguimiento "
+"personalizado</b> de cada alumno y del grupo clase."
+
+#, fuzzy
+msgid ""
+"El usuario acepta expresamente los términos y condiciones de uso "
+"establecidos anteriormente al marcar la casilla que cita textualmente “he "
+"leído y acepto las condiciones legales” que se encuentra en los distintos "
+"formularios de recogida de datos."
+msgstr ""
+"El usuario acepta expresamente los términos y condiciones de uso "
+"establecidos anteriormente al marcar la casilla que cita textualmente “he "
+"leído y acepto las condiciones legales” que se encuentra en los distintos "
+"formularios de recogida de datos."
+
+#, fuzzy
+msgid ""
+"El usuario podrá ejercitar sus derechos de acceso, rectificación, "
+"cancelación y oposición, dirigiéndose por escrito a EDICIONES VICENS VIVES, "
+"S.A., Responsable del Fichero, en la dirección siguiente: Avda. Sarrià, 130, "
+"08017 de la ciudad de Barcelona (España) o bien por correo electrónico a <a "
+"href=\"mailto:sau@vicensvivesdigital.com\">sau@vicensvivesdigital.com</a>."
+msgstr ""
+"El usuario podrá ejercitar sus derechos de acceso, rectificación, "
+"cancelación y oposición, dirigiéndose por escrito a EDICIONES VICENS VIVES, "
+"S.A., Responsable del Fichero, en la dirección siguiente: Avda. Sarrià, 130, "
+"08017 de la ciudad de Barcelona (España) o bien por correo electrónico a <a "
+"href=\"mailto:sau@vicensvivesdigital.com\">sau@vicensvivesdigital.com</a>."
+
+#, fuzzy
+msgid "Elige la asignatura que impartes"
+msgstr "Elige la asignatura que impartes"
+
+#, fuzzy
+msgid ""
+"En VICENS VIVES se utilizan los siguientes tipos de cookies, las cuales son "
+"tratadas bien por VICENS VIVES directamente o por colaboradores terceros:"
+msgstr ""
+"En VICENS VIVES se utilizan los siguientes tipos de cookies, las cuales son "
+"tratadas bien por VICENS VIVES directamente o por colaboradores terceros:"
+
+#, fuzzy
+msgid ""
+"En cada actividad puedes consultar las <b>calificaciones</b> de los alumnos "
+"o el número de intentos y realizar correcciones o comentarios de forma "
+"individual."
+msgstr ""
+"En cada actividad puedes consultar las <b>calificaciones</b> de los alumnos "
+"o el número de intentos y realizar correcciones o comentarios de forma "
+"individual."
+
+#, fuzzy
+msgid ""
+"En cada actividad se registra la calificación y el número de intentos, "
+"ofreciendo la información para valorar la evolución del alumnado."
+msgstr ""
+"En cada actividad se registra la calificación y el número de intentos, "
+"ofreciendo la información para valorar la evolución del alumnado."
+
+#, fuzzy
+msgid ""
+"En caso de duda razonable sobre la edad de un usuario, VICENS VIVES tiene el "
+"derecho de suspender o bloquear la cuenta de usuario hasta que el usuario "
+"pruebe fehacientemente que tiene 14 años o más. Para ello, VICENS VIVES se "
+"pondrá en contacto con el usuario para que le proporcione fotocopia del DNI, "
+"NIE, Pasaporte o documento equivalente. Si no se proporciona la información "
+"en la forma y plazo requeridos por VICENS VIVES, la cuenta de usuario podrá "
+"ser eliminada. La fotocopia recibida solo será utilizada para comprobar la "
+"edad del usuario y no para otra finalidad."
+msgstr ""
+"En caso de duda razonable sobre la edad de un usuario, VICENS VIVES tiene el "
+"derecho de suspender o bloquear la cuenta de usuario hasta que el usuario "
+"pruebe fehacientemente que tiene 14 años o más. Para ello, VICENS VIVES se "
+"pondrá en contacto con el usuario para que le proporcione fotocopia del DNI, "
+"NIE, Pasaporte o documento equivalente. Si no se proporciona la información "
+"en la forma y plazo requeridos por VICENS VIVES, la cuenta de usuario podrá "
+"ser eliminada. La fotocopia recibida solo será utilizada para comprobar la "
+"edad del usuario y no para otra finalidad."
+
+#, fuzzy
+msgid ""
+"En caso de duda razonable sobre la identidad de un usuario (del familiar o "
+"del usuario menor de 14 años), VICENS VIVES tiene el derecho de suspender o "
+"bloquear la cuenta de usuario (o las cuentas) hasta que el usuario pruebe "
+"fehacientemente su identidad y la relación parental con otros usuarios. Para "
+"ello, VICENS VIVES se pondrá en contacto con el usuario para que le "
+"proporcione fotocopia del DNI, NIE, Pasaporte o documento equivalente y "
+"fotocopia del libro de familia o similar (si fuere necesario). Si no se "
+"proporciona la información en la forma y plazo requeridos por VICENS VIVES, "
+"la cuenta de usuario (y la de los usuarios menores de 14 años vinculados) "
+"podrá ser eliminada. La fotocopia recibida sólo será utilizada para "
+"comprobar la información del usuario y no para otra finalidad."
+msgstr ""
+"En caso de duda razonable sobre la identidad de un usuario (del familiar o "
+"del usuario menor de 14 años), VICENS VIVES tiene el derecho de suspender o "
+"bloquear la cuenta de usuario (o las cuentas) hasta que el usuario pruebe "
+"fehacientemente su identidad y la relación parental con otros usuarios. Para "
+"ello, VICENS VIVES se pondrá en contacto con el usuario para que le "
+"proporcione fotocopia del DNI, NIE, Pasaporte o documento equivalente y "
+"fotocopia del libro de familia o similar (si fuere necesario). Si no se "
+"proporciona la información en la forma y plazo requeridos por VICENS VIVES, "
+"la cuenta de usuario (y la de los usuarios menores de 14 años vinculados) "
+"podrá ser eliminada. La fotocopia recibida sólo será utilizada para "
+"comprobar la información del usuario y no para otra finalidad."
+
+#, fuzzy
+msgid ""
+"En caso de que no se pueda comprobar la correcta identidad de un usuario o "
+"se demuestre que ha habido una suplantación de un perfil, se procederá a la "
+"cancelación definitiva de la cuenta de usuario. VICENS VIVES se reserva el "
+"derecho a informar a las autoridades policiales y judiciales competentes "
+"acerca de la suplantación de perfil realizada."
+msgstr ""
+"En caso de que no se pueda comprobar la correcta identidad de un usuario o "
+"se demuestre que ha habido una suplantación de un perfil, se procederá a la "
+"cancelación definitiva de la cuenta de usuario. VICENS VIVES se reserva el "
+"derecho a informar a las autoridades policiales y judiciales competentes "
+"acerca de la suplantación de perfil realizada."
+
+#, fuzzy
+msgid ""
+"En cualquier caso, los usuarios pueden permitir, bloquear o eliminar estas "
+"cookies en cualquier momento y cuando lo deseen a través de la configuración "
+"del navegador."
+msgstr ""
+"En cualquier caso, los usuarios pueden permitir, bloquear o eliminar estas "
+"cookies en cualquier momento y cuando lo deseen a través de la configuración "
+"del navegador."
+
+#, fuzzy
+msgid ""
+"En cualquier momento los familiares podrán añadir/vincular a más usuarios "
+"menores de 14 años y desvincular/eliminar usuarios menores de 14 años. Un "
+"usuario menor de 14 años no puede estar desvinculado de un familiar."
+msgstr ""
+"En cualquier momento los familiares podrán añadir/vincular a más usuarios "
+"menores de 14 años y desvincular/eliminar usuarios menores de 14 años. Un "
+"usuario menor de 14 años no puede estar desvinculado de un familiar."
+
+#, fuzzy
+msgid "En el aula"
+msgstr "En el aula"
+
+#, fuzzy
+msgid "En la tienda online"
+msgstr "En la tienda online"
+
+#, fuzzy
+msgid ""
+"En todo caso, VICENS VIVES no enviará información publicitaria de terceros a "
+"los usuarios de VICENS VIVES sin haber recabado la autorización expresa para "
+"ello."
+msgstr ""
+"En todo caso, VICENS VIVES no enviará información publicitaria de terceros a "
+"los usuarios de VICENS VIVES sin haber recabado la autorización expresa para "
+"ello."
+
+#, fuzzy
+msgid "En tu libro de papel de Vicens Vives"
+msgstr "En tu libro de papel de Vicens Vives"
+
+#, fuzzy
+msgid "English"
+msgstr "English"
+
+#, fuzzy
+msgid "Entra"
+msgstr "Entra"
+
+#, fuzzy
+msgid "Entrar"
+msgstr "Entrar"
+
+#, fuzzy
+msgid "Escribe el código de tu centro"
+msgstr "Escribe el código de tu centro"
+
+#, fuzzy
+msgid "Escribe tu correo electrónico"
+msgstr "Escribe tu correo electrónico"
+
+#, fuzzy
+msgid "Escribe tu email o nombre de usuarios"
+msgstr "Escribe tu email o nombre de usuarios"
+
+#, fuzzy
+msgid "Escribe tu nombre"
+msgstr "Escribe tu nombre"
+
+#, fuzzy
+msgid "Escribe tu número de teléfono"
+msgstr "Escribe tu número de teléfono"
+
+#, fuzzy
+msgid "Escribe una contraseña"
+msgstr "Escribe una contraseña"
+
+#, fuzzy
+msgid "Escritorio"
+msgstr "Escritorio"
+
+#, fuzzy
+msgid "Español"
+msgstr "Español"
+
+#, fuzzy
+msgid ""
+"Esta web es propiedad de EDICIONES VICENS VIVES, S.A. El hecho de acceder a "
+"esta página implica el conocimiento y aceptación de los siguientes términos "
+"y condiciones de uso:"
+msgstr ""
+"Esta web es propiedad de EDICIONES VICENS VIVES, S.A. El hecho de acceder a "
+"esta página implica el conocimiento y aceptación de los siguientes términos "
+"y condiciones de uso:"
+
+#, fuzzy
+msgid "Este código ya está registrado en el sistema"
+msgstr "Este código ya está registrado en el sistema"
+
+#, fuzzy
+msgid ""
+"Este diseño permite ocultar unidades, temas o actividades en los que no "
+"estés trabajando para facilitar la gestión del aula. Además, se ha "
+"conservado la iconografía propia de los elementos de los libros de Edubook "
+"para facilitar la comprensión."
+msgstr ""
+"Este diseño permite ocultar unidades, temas o actividades en los que no "
+"estés trabajando para facilitar la gestión del aula. Además, se ha "
+"conservado la iconografía propia de los elementos de los libros de Edubook "
+"para facilitar la comprensión."
+
+#, fuzzy
+msgid ""
+"Este plugin permite acceder fácilmente a las calificaciones del alumnado, "
+"consultando las calificaciones medias por tema, por apartado y por actividad "
+"de cada alumno/a."
+msgstr ""
+"Este plugin permite acceder fácilmente a las calificaciones del alumnado, "
+"consultando las calificaciones medias por tema, por apartado y por actividad "
+"de cada alumno/a."
+
+#, fuzzy
+msgid ""
+"Este plugin permite consultar la información sobre las licencias de Edubook "
+"utilizadas en tu centro."
+msgstr ""
+"Este plugin permite consultar la información sobre las licencias de Edubook "
+"utilizadas en tu centro."
+
+#, fuzzy
+msgid ""
+"Este plugin permite enviar a Moodle todas las calificaciones de las "
+"actividades realizadas en Edubook, independientemente de si se han realizado "
+"en la versión web o en cualquiera de las aplicaciones móviles disponibles."
+msgstr ""
+"Este plugin permite enviar a Moodle todas las calificaciones de las "
+"actividades realizadas en Edubook, independientemente de si se han realizado "
+"en la versión web o en cualquiera de las aplicaciones móviles disponibles."
+
+#, fuzzy
+msgid "Estos nuevos plugins permiten:"
+msgstr "Estos nuevos plugins permiten:"
+
+#, fuzzy
+msgid "Formato de curso propio"
+msgstr "Formato de curso propio"
+
+#, fuzzy
+msgid "Formato de curso propio adaptado a las necesidades de aprendizaje."
+msgstr "Formato de curso propio adaptado a las necesidades de aprendizaje."
+
+#, fuzzy
+msgid "Formato de curso propio."
+msgstr "Formato de curso propio."
+
+#, fuzzy
+msgid "Funciona sin conexión a internet."
+msgstr "Funciona sin conexión a internet."
+
+#, fuzzy
+msgid "Galería multimedia"
+msgstr "Galería multimedia"
+
+#, fuzzy
+msgid "Garantía de calidad Vicens Vives"
+msgstr "Garantía de calidad Vicens Vives"
+
+#, fuzzy
+msgid "Gestión del aula"
+msgstr "Gestión del aula"
+
+#, fuzzy
+msgid ""
+"Gracias a la <b>gestión de usuarios</b>, es posible dar de alta y editar los "
+"perfiles de los usuarios, <b>gestionar las matriculaciones</b> y crear "
+"clases, entre otras posibilidades. Además, se han desarrollado los "
+"protocolos necesarios para que la <b>integración de Edubook en Moodle</b> "
+"sea rápida y sencilla."
+msgstr ""
+"Gracias a la <b>gestión de usuarios</b>, es posible dar de alta y editar los "
+"perfiles de los usuarios, <b>gestionar las matriculaciones</b> y crear "
+"clases, entre otras posibilidades. Además, se han desarrollado los "
+"protocolos necesarios para que la <b>integración de Edubook en Moodle</b> "
+"sea rápida y sencilla."
+
+#, fuzzy
+msgid "Gran variedad de contenido interactivo: vídeos, animaciones, audios..."
+msgstr "Gran variedad de contenido interactivo: vídeos, animaciones, audios..."
+
+#, fuzzy
+msgid "Guadalinex EDU 2013 o superior."
+msgstr "Guadalinex EDU 2013 o superior."
+
+#, fuzzy
+msgid "Guía de instalación"
+msgstr "Guía de instalación"
+
+#, fuzzy
+msgid ""
+"Guía didáctica, propuestas curriculares, recursos para la atención a la "
+"diversidad y evaluaciones."
+msgstr ""
+"Guía didáctica, propuestas curriculares, recursos para la atención a la "
+"diversidad y evaluaciones."
+
+#, fuzzy
+msgid "He leído y acepto las condiciones legales."
+msgstr "He leído y acepto las condiciones legales."
+
+#, fuzzy
+msgid "Icon arrow"
+msgstr "Icon arrow"
+
+#, fuzzy
+msgid "Icono Edubook"
+msgstr "Icono Edubook"
+
+#, fuzzy
+msgid "Icono Vicens Vives"
+msgstr "Icono Vicens Vives"
+
+#, fuzzy
+msgid "Icono anim"
+msgstr "Icono anim"
+
+#, fuzzy
+msgid "Icono blink"
+msgstr "Icono blink"
+
+#, fuzzy
+msgid "Icono check"
+msgstr "Icono check"
+
+#, fuzzy
+msgid "Icono chevron"
+msgstr "Icono chevron"
+
+#, fuzzy
+msgid "Icono cite"
+msgstr "Icono cite"
+
+#, fuzzy
+msgid "Icono clickedu"
+msgstr "Icono clickedu"
+
+#, fuzzy
+msgid "Icono docente"
+msgstr "Icono docente"
+
+#, fuzzy
+msgid "Icono entorno"
+msgstr "Icono entorno"
+
+#, fuzzy
+msgid "Icono estrella"
+msgstr "Icono estrella"
+
+#, fuzzy
+msgid "Icono facebook"
+msgstr "Icono facebook"
+
+#, fuzzy
+msgid "Icono herramienta"
+msgstr "Icono herramienta"
+
+#, fuzzy
+msgid "Icono maletas"
+msgstr "Icono maletas"
+
+#, fuzzy
+msgid "Icono menú"
+msgstr "Icono menú"
+
+#, fuzzy
+msgid "Icono multidispositivo"
+msgstr "Icono multidispositivo"
+
+#, fuzzy
+msgid "Icono scolarTIC"
+msgstr "Icono scolarTIC"
+
+#, fuzzy
+msgid "Icono twitter"
+msgstr "Icono twitter"
+
+#, fuzzy
+msgid "Icono virtus360"
+msgstr "Icono virtus360"
+
+#, fuzzy
+msgid "Icono wifi"
+msgstr "Icono wifi"
+
+#, fuzzy
+msgid "Icono youtube"
+msgstr "Icono youtube"
+
+#, fuzzy
+msgid "Importación automática de cursos"
+msgstr "Importación automática de cursos"
+
+#, fuzzy
+msgid "Importar"
+msgstr "Importar"
+
+#, fuzzy
+msgid "Incorpora las TIC a tu aula"
+msgstr "Incorpora las TIC a tu aula"
+
+#, fuzzy
+msgid "Información del familiar:"
+msgstr "Información del familiar:"
+
+#, fuzzy
+msgid "Información del usuario menor de 14 años:"
+msgstr "Información del usuario menor de 14 años:"
+
+#, fuzzy
+msgid "Informe calificador"
+msgstr "Informe calificador"
+
+#, fuzzy
+msgid "Informe calificador."
+msgstr "Informe calificador."
+
+#, fuzzy
+msgid "Inicia sesión en Edubook"
+msgstr "Inicia sesión en Edubook"
+
+#, fuzzy
+msgid "Iniciar sesión"
+msgstr "Iniciar sesión"
+
+#, fuzzy
+msgid "Integración"
+msgstr "Integración"
+
+#, fuzzy
+msgid "Integración Moodle"
+msgstr "Integración Moodle"
+
+#, fuzzy
+msgid "Integración con tabletas, web y desktop"
+msgstr "Integración con tabletas, web y desktop"
+
+#, fuzzy
+msgid "Intenta volver a cargar la página o regresa a la página de inicio."
+msgstr "Intenta volver a cargar la página o regresa a la página de inicio."
+
+#, fuzzy
+msgid "Introduce tu correo electrónico"
+msgstr "Introduce tu correo electrónico"
+
+#, fuzzy
+msgid "Introduce tu código de licencia"
+msgstr "Introduce tu código de licencia"
+
+#, fuzzy
+msgid ""
+"La continuidad en el uso de los servicios de VICENS VIVES supondrá la "
+"aceptación de las modificaciones realizadas."
+msgstr ""
+"La continuidad en el uso de los servicios de VICENS VIVES supondrá la "
+"aceptación de las modificaciones realizadas."
+
+#, fuzzy
+msgid ""
+"La estructura del libro se ha adaptado al entorno digital facilitando la "
+"navegación y convirtiéndola en una herramienta intuitiva y de fácil manejo."
+msgstr ""
+"La estructura del libro se ha adaptado al entorno digital facilitando la "
+"navegación y convirtiéndola en una herramienta intuitiva y de fácil manejo."
+
+#, fuzzy
+msgid ""
+"La licencia digital es un código de doce cifras que te permite acceder a "
+"todo el contenido digital de tu libro de texto de Vicens Vives. <b>¿Cómo "
+"puedes conseguirla?</b>"
+msgstr ""
+"La licencia digital es un código de doce cifras que te permite acceder a "
+"todo el contenido digital de tu libro de texto de Vicens Vives. <b>¿Cómo "
+"puedes conseguirla?</b>"
+
+#, fuzzy
+msgid ""
+"La licencia digital está impresa en la última página del libro. Solo tienes "
+"que introducirla <a>aquí</a>."
+msgstr ""
+"La licencia digital está impresa en la última página del libro. Solo tienes "
+"que introducirla <a>aquí</a>."
+
+#, fuzzy
+msgid ""
+"La validación de todos los usuarios involucrados en el proceso se hará a "
+"través del click en la URL del correo electrónico de validación que recibirá "
+"el familiar."
+msgstr ""
+"La validación de todos los usuarios involucrados en el proceso se hará a "
+"través del click en la URL del correo electrónico de validación que recibirá "
+"el familiar."
+
+#, fuzzy
+msgid ""
+"La versión offline de Edubook permite consultar el libro y realizar las "
+"actividades en cualquier lugar y sin depender de la conexión a internet."
+msgstr ""
+"La versión offline de Edubook permite consultar el libro y realizar las "
+"actividades en cualquier lugar y sin depender de la conexión a internet."
+
+#, fuzzy
+msgid ""
+"Las actividades autocorrectiva permiten que el alumnado realice más de un "
+"intento y aprenda a su propio ritmo, obteniendo una calificación inmediata."
+msgstr ""
+"Las actividades autocorrectiva permiten que el alumnado realice más de un "
+"intento y aprenda a su propio ritmo, obteniendo una calificación inmediata."
+
+#, fuzzy
+msgid ""
+"Las actividades realizadas en modo offline se sincronizan automáticamente "
+"cuando se establece la conexión a internet, por lo que nunca se pierde "
+"información."
+msgstr ""
+"Las actividades realizadas en modo offline se sincronizan automáticamente "
+"cuando se establece la conexión a internet, por lo que nunca se pierde "
+"información."
+
+#, fuzzy
+msgid ""
+"Las actividades se han diseñado específicamente para su uso en el entorno "
+"digital, teniendo en cuenta el nivel educativo y desarrollo del alumnado."
+msgstr ""
+"Las actividades se han diseñado específicamente para su uso en el entorno "
+"digital, teniendo en cuenta el nivel educativo y desarrollo del alumnado."
+
+#, fuzzy
+msgid ""
+"Las animaciones, vídeos o mapas <b>facilitan el aprendizaje</b> y permiten "
+"una mejor atención por parte del alumnado."
+msgstr ""
+"Las animaciones, vídeos o mapas <b>facilitan el aprendizaje</b> y permiten "
+"una mejor atención por parte del alumnado."
+
+#, fuzzy
+msgid ""
+"Las suplantaciones de perfiles están expresamente prohibidas en VICENS "
+"VIVES, además de ser un delito tipificado en el artículo 401 del Código "
+"Penal español. Cualquier indicio de suplantación de perfil supondrá el "
+"bloqueo de la cuenta de usuario y se iniciará el proceso de comprobación de "
+"la identidad del usuario."
+msgstr ""
+"Las suplantaciones de perfiles están expresamente prohibidas en VICENS "
+"VIVES, además de ser un delito tipificado en el artículo 401 del Código "
+"Penal español. Cualquier indicio de suplantación de perfil supondrá el "
+"bloqueo de la cuenta de usuario y se iniciará el proceso de comprobación de "
+"la identidad del usuario."
+
+#, fuzzy
+msgid "Lengua"
+msgstr "Lengua"
+
+#, fuzzy
+msgid "Linux"
+msgstr "Linux"
+
+#, fuzzy
+msgid ""
+"Llegados a este punto, el familiar asume completamente la responsabilidad "
+"acerca del registro que llevará a cabo, eximiendo a VICENS VIVES "
+"completamente de las responsabilidades y asumiendo exclusivamente las "
+"consecuencias y daños y perjuicios que puedan acaecer. Por lo tanto, VICENS "
+"VIVES no se hace responsable en ningún caso de un registro fraudulento "
+"llevado a cabo por un usuario."
+msgstr ""
+"Llegados a este punto, el familiar asume completamente la responsabilidad "
+"acerca del registro que llevará a cabo, eximiendo a VICENS VIVES "
+"completamente de las responsabilidades y asumiendo exclusivamente las "
+"consecuencias y daños y perjuicios que puedan acaecer. Por lo tanto, VICENS "
+"VIVES no se hace responsable en ningún caso de un registro fraudulento "
+"llevado a cabo por un usuario."
+
+#, fuzzy
+msgid ""
+"Los materiales están adaptados a las necesidades de cada nivel educativo y "
+"enriquecidos con animaciones, audios, vídeos y mapas."
+msgstr ""
+"Los materiales están adaptados a las necesidades de cada nivel educativo y "
+"enriquecidos con animaciones, audios, vídeos y mapas."
+
+#, fuzzy
+msgid ""
+"Los nombres de dominio y las marcas de <a href=\"edubook.vicensvives.com\" "
+"target=\"blank\">edubook.vicensvives.com</a> y <b>Edubook</b> están "
+"registrados a favor de EDICIONES VICENS VIVES, S.A. (en adelante VICENS "
+"VIVES), con NIF A08375545 y domicilio social en la Avda. Sarrià, 130, 08017 "
+"de la ciudad de Barcelona (<a href=\"mailto:sau@vicensvivesdigital.com"
+"\">sau@vicensvivesdigital.com</a>)."
+msgstr ""
+"Los nombres de dominio y las marcas de <a href=\"edubook.vicensvives.com\" "
+"target=\"blank\">edubook.vicensvives.com</a> y <b>Edubook</b> están "
+"registrados a favor de EDICIONES VICENS VIVES, S.A. (en adelante VICENS "
+"VIVES), con NIF A08375545 y domicilio social en la Avda. Sarrià, 130, 08017 "
+"de la ciudad de Barcelona (<a href=\"mailto:sau@vicensvivesdigital.com"
+"\">sau@vicensvivesdigital.com</a>)."
+
+#, fuzzy
+msgid ""
+"Los perfiles de usuarios menores de 14 años en VICENS VIVES son tratados con "
+"el máximo de garantías para proteger y salvaguardar la intimidad, privacidad "
+"y seguridad de los usuarios, estableciendo un trato diferenciado en su "
+"tratamiento."
+msgstr ""
+"Los perfiles de usuarios menores de 14 años en VICENS VIVES son tratados con "
+"el máximo de garantías para proteger y salvaguardar la intimidad, privacidad "
+"y seguridad de los usuarios, estableciendo un trato diferenciado en su "
+"tratamiento."
+
+#, fuzzy
+msgid ""
+"Los usuarios podrán darse de baja de los servicios de VICENS VIVES en "
+"cualquier momento poniéndose en contacto por email a <a href=\"mailto:"
+"sau@vicensvivesdigital.com\">sau@vicensvivesdigital.com</a>."
+msgstr ""
+"Los usuarios podrán darse de baja de los servicios de VICENS VIVES en "
+"cualquier momento poniéndose en contacto por email a <a href=\"mailto:"
+"sau@vicensvivesdigital.com\">sau@vicensvivesdigital.com</a>."
+
+#, fuzzy
+msgid "Mac"
+msgstr "Mac"
+
+#, fuzzy
+msgid "Mac OS X 10.6 Snow Leopard o superior."
+msgstr "Mac OS X 10.6 Snow Leopard o superior."
+
+#, fuzzy
+msgid ""
+"Mac OS X 10.6 Snow Leopard o superior.<br>Mínimo 1GB de RAM (Recomendado "
+"2GB)."
+msgstr ""
+"Mac OS X 10.6 Snow Leopard o superior.<br>Mínimo 1GB de RAM (Recomendado "
+"2GB)."
+
+#, fuzzy
+msgid "Material para el profesorado"
+msgstr "Material para el profesorado"
+
+#, fuzzy
+msgid "Mates"
+msgstr "Mates"
+
+#, fuzzy
+msgid ""
+"Mejora tu experiencia educativa con Edubook online y con todos los recursos "
+"educativos de calidad que ofrece la red educativa <b>Tiching</b>."
+msgstr ""
+"Mejora tu experiencia educativa con Edubook online y con todos los recursos "
+"educativos de calidad que ofrece la red educativa <b>Tiching</b>."
+
+#, fuzzy
+msgid ""
+"Mil centros educativos y más de 50.000 alumnos ya utilizan Edubook "
+"diariamente."
+msgstr ""
+"Mil centros educativos y más de 50.000 alumnos ya utilizan Edubook "
+"diariamente."
+
+#, fuzzy
+msgid "Muchas gracias"
+msgstr "Muchas gracias"
+
+#, fuzzy
+msgid "Multidispositivo"
+msgstr "Multidispositivo"
+
+#, fuzzy
+msgid "Mínimo 1GB de RAM (Recomendado 2 GB)"
+msgstr "Mínimo 1GB de RAM (Recomendado 2 GB)"
+
+#, fuzzy
+msgid "Mínimo 1GB de RAM (Recomendado 2GB)."
+msgstr "Mínimo 1GB de RAM (Recomendado 2GB)."
+
+#, fuzzy
+msgid "Naturales"
+msgstr "Naturales"
+
+#, fuzzy
+msgid "No encuentro el código de licencia"
+msgstr "No encuentro el código de licencia"
+
+#, fuzzy
+msgid "Nombre"
+msgstr "Nombre"
+
+#, fuzzy
+msgid "Nombre de usuario"
+msgstr "Nombre de usuario"
+
+#, fuzzy
+msgid ""
+"Número de DNI/NIE/Pasaporte o documento equivalente (esta información se "
+"solicita para garantizar que no hay suplantación de identidad y para "
+"preservar la intimidad y seguridad de los usuarios menores de 14 años. Este "
+"número no será, en ningún caso, visible al resto de usuarios de VICENS VIVES "
+"ni proporcionado a terceras personas)."
+msgstr ""
+"Número de DNI/NIE/Pasaporte o documento equivalente (esta información se "
+"solicita para garantizar que no hay suplantación de identidad y para "
+"preservar la intimidad y seguridad de los usuarios menores de 14 años. Este "
+"número no será, en ningún caso, visible al resto de usuarios de VICENS VIVES "
+"ni proporcionado a terceras personas)."
+
+#, fuzzy
+msgid "Otras plataformas compatibles:"
+msgstr "Otras plataformas compatibles:"
+
+#, fuzzy
+msgid "Para Linux"
+msgstr "Para Linux"
+
+#, fuzzy
+msgid "Para Mac"
+msgstr "Para Mac"
+
+#, fuzzy
+msgid "Para Windows"
+msgstr "Para Windows"
+
+#, fuzzy
+msgid ""
+"Para garantizar la seguridad de los datos de usuario, los usuarios se "
+"obligan a usar los servicios de VICENS VIVES para finalidades de carácter "
+"personal exclusivamente, recomendando a tal efecto a los usuarios la no "
+"comunicación de sus datos a terceros."
+msgstr ""
+"Para garantizar la seguridad de los datos de usuario, los usuarios se "
+"obligan a usar los servicios de VICENS VIVES para finalidades de carácter "
+"personal exclusivamente, recomendando a tal efecto a los usuarios la no "
+"comunicación de sus datos a terceros."
+
+#, fuzzy
+msgid ""
+"Para mejorar los servicios y contenidos de la web, VICENS VIVES se reserva "
+"el derecho de actualizar, modificar o eliminar la información contenida en "
+"su web, así como su configuración o presentación, en cualquier momento, sin "
+"previo aviso y sin asumir ningún tipo de responsabilidad por hacerlo. "
+msgstr ""
+"Para mejorar los servicios y contenidos de la web, VICENS VIVES se reserva "
+"el derecho de actualizar, modificar o eliminar la información contenida en "
+"su web, así como su configuración o presentación, en cualquier momento, sin "
+"previo aviso y sin asumir ningún tipo de responsabilidad por hacerlo. "
+
+#, fuzzy
+msgid ""
+"Para poder ser usuario de VICENS VIVES es necesario ser mayor de 14 años. "
+"Los menores de 14 años no pueden registrarse en VICENS VIVES (a no ser que "
+"lo haga, en su nombre, su padre/madre o tutor legal). Cuando un usuario se "
+"registra en VICENS VIVES reconoce expresamente ser mayor de 14 años y se "
+"hace responsable de dicha declaración."
+msgstr ""
+"Para poder ser usuario de VICENS VIVES es necesario ser mayor de 14 años. "
+"Los menores de 14 años no pueden registrarse en VICENS VIVES (a no ser que "
+"lo haga, en su nombre, su padre/madre o tutor legal). Cuando un usuario se "
+"registra en VICENS VIVES reconoce expresamente ser mayor de 14 años y se "
+"hace responsable de dicha declaración."
+
+#, fuzzy
+msgid ""
+"Para poder utilizar determinados servicios y funcionalidades de VICENS "
+"VIVES, es necesario que los usuarios habiliten las cookies en su navegador "
+"de internet. Concretamente, mediante las “cookies técnicas” VICENS VIVES "
+"podrá identificar a los usuarios registrados cada vez que accedan a VICENS "
+"VIVES, permitiendo así el acceso y uso a los servicios y funcionalidades de "
+"la página web."
+msgstr ""
+"Para poder utilizar determinados servicios y funcionalidades de VICENS "
+"VIVES, es necesario que los usuarios habiliten las cookies en su navegador "
+"de internet. Concretamente, mediante las “cookies técnicas” VICENS VIVES "
+"podrá identificar a los usuarios registrados cada vez que accedan a VICENS "
+"VIVES, permitiendo así el acceso y uso a los servicios y funcionalidades de "
+"la página web."
+
+#, fuzzy
+msgid "Para registrar a estudiantes menores de 14 años."
+msgstr "Para registrar a estudiantes menores de 14 años."
+
+#, fuzzy
+msgid "Parece que algo no está funcionando bien."
+msgstr "Parece que algo no está funcionando bien."
+
+#, fuzzy
+msgid "Personaliza el contenido del libro"
+msgstr "Personaliza el contenido del libro"
+
+#, fuzzy
+msgid ""
+"Podrás hacer un seguimiento de las licencias disponibles y de las licencias "
+"en uso según si son de alumno o de docente."
+msgstr ""
+"Podrás hacer un seguimiento de las licencias disponibles y de las licencias "
+"en uso según si son de alumno o de docente."
+
+#, fuzzy
+msgid "Proyecta cualquier apartado del libro."
+msgstr "Proyecta cualquier apartado del libro."
+
+#, fuzzy
+msgid ""
+"Puedes acceder a tu libro digital desde cualquier navegador web o a través "
+"de nuestras aplicaciones."
+msgstr ""
+"Puedes acceder a tu libro digital desde cualquier navegador web o a través "
+"de nuestras aplicaciones."
+
+#, fuzzy
+msgid "Quiero comprar una licencia"
+msgstr "Quiero comprar una licencia"
+
+#, fuzzy
+msgid "Readmore"
+msgstr "Readmore"
+
+#, fuzzy
+msgid "Realiza un seguimiento del consumo de licencias en tu centro."
+msgstr "Realiza un seguimiento del consumo de licencias en tu centro."
+
+#, fuzzy
+msgid "Recibe todas las calificaciones de Edubook en tu Moodle."
+msgstr "Recibe todas las calificaciones de Edubook en tu Moodle."
+
+#, fuzzy
+msgid ""
+"Recomendamos a los usuarios de entre 14 y 18 años que consulten e informen a "
+"sus padres y tutores legales antes de proceder a registrarse en VICENS VIVES."
+msgstr ""
+"Recomendamos a los usuarios de entre 14 y 18 años que consulten e informen a "
+"sus padres y tutores legales antes de proceder a registrarse en VICENS VIVES."
+
+#, fuzzy
+msgid ""
+"Recomendamos a todos los usuarios que se pongan en contacto con VICENS VIVES "
+"si conocen, o tienen indicios, de que un perfil de usuario ha sido víctima "
+"de una suplantación de identidad."
+msgstr ""
+"Recomendamos a todos los usuarios que se pongan en contacto con VICENS VIVES "
+"si conocen, o tienen indicios, de que un perfil de usuario ha sido víctima "
+"de una suplantación de identidad."
+
+#, fuzzy
+msgid "Recuerda que si eres menor de 14 años, te debe registrar un familiar."
+msgstr "Recuerda que si eres menor de 14 años, te debe registrar un familiar."
+
+#, fuzzy
+msgid "Recursos didácticos y herramientas para simplificar la tarea docente."
+msgstr "Recursos didácticos y herramientas para simplificar la tarea docente."
+
+#, fuzzy
+msgid "Recursos para el profesor"
+msgstr "Recursos para el profesor"
+
+#, fuzzy
+msgid "Recuérdame"
+msgstr "Recuérdame"
+
+#, fuzzy
+msgid "Registro de familiar"
+msgstr "Registro de familiar"
+
+#, fuzzy
+msgid "Regístrate"
+msgstr "Regístrate"
+
+#, fuzzy
+msgid "Sara Arranz Ramiro<br>Coordinadora TIC del colegio XXX"
+msgstr "Sara Arranz Ramiro<br>Coordinadora TIC del colegio XXX"
+
+#, fuzzy
+msgid "Se adapta a cualquier dispositivo."
+msgstr "Se adapta a cualquier dispositivo."
+
+#, fuzzy
+msgid "Se adapta a la realidad de cada aula."
+msgstr "Se adapta a la realidad de cada aula."
+
+#, fuzzy
+msgid "Se adapta a todos los entornos y necesidades"
+msgstr "Se adapta a todos los entornos y necesidades"
+
+#, fuzzy
+msgid "Si eres docente"
+msgstr "Si eres docente"
+
+#, fuzzy
+msgid ""
+"Si eres docente, solicita una demo sin compromiso para descubrir todo lo que "
+"te ofrece Edubook."
+msgstr ""
+"Si eres docente, solicita una demo sin compromiso para descubrir todo lo que "
+"te ofrece Edubook."
+
+#, fuzzy
+msgid "Si no lo eres <a href=\"http://www.zendesk.es/\">contáctanos</a>"
+msgstr "Si no lo eres <a href=\"http://www.zendesk.es/\">contáctanos</a>"
+
+#, fuzzy
+msgid "Siempre disponible sin depender de la conectividad a internet."
+msgstr "Siempre disponible sin depender de la conectividad a internet."
+
+#, fuzzy
+msgid "Siguiente "
+msgstr "Siguiente "
+
+#, fuzzy
+msgid "Sincronización"
+msgstr "Sincronización"
+
+#, fuzzy
+msgid "Sincronización automática de calificaciones"
+msgstr "Sincronización automática de calificaciones"
+
+#, fuzzy
+msgid "Sociales"
+msgstr "Sociales"
+
+#, fuzzy
+msgid ""
+"Solamente los padres, madres y tutores legales o centros educativos "
+"autorizados a tal efecto (en adelante “familiar” o “familiares”) de un menor "
+"de 14 años tendrán la posibilidad de registrar a un usuario que no llegue a "
+"la edad mínima requerida (14 años). Desde VICENS VIVES se ha desarrollado un "
+"proceso para poder facilitar este registro, intentando preservar al máximo "
+"la intimidad de los menores y de los propios familiares."
+msgstr ""
+"Solamente los padres, madres y tutores legales o centros educativos "
+"autorizados a tal efecto (en adelante “familiar” o “familiares”) de un menor "
+"de 14 años tendrán la posibilidad de registrar a un usuario que no llegue a "
+"la edad mínima requerida (14 años). Desde VICENS VIVES se ha desarrollado un "
+"proceso para poder facilitar este registro, intentando preservar al máximo "
+"la intimidad de los menores y de los propios familiares."
+
+#, fuzzy
+msgid "Solicita una versión demo y pruébalo en tu centro"
+msgstr "Solicita una versión demo y pruébalo en tu centro"
+
+#, fuzzy
+msgid "Solicitar demo"
+msgstr "Solicitar demo"
+
+#, fuzzy
+msgid "Solicitar una demo"
+msgstr "Solicitar una demo"
+
+#, fuzzy
+msgid "Soy docente"
+msgstr "Soy docente"
+
+#, fuzzy
+msgid "Soy estudiante"
+msgstr "Soy estudiante"
+
+#, fuzzy
+msgid "Soy familiar"
+msgstr "Soy familiar"
+
+#, fuzzy
+msgid "Tabletas"
+msgstr "Tabletas"
+
+#, fuzzy
+msgid "Teléfono"
+msgstr "Teléfono"
+
+#, fuzzy
+msgid "Testimonio"
+msgstr "Testimonio"
+
+#, fuzzy
+msgid ""
+"Todas las actividades abiertas y autocorrectivas de Edubook para PDI y en "
+"modo offline."
+msgstr ""
+"Todas las actividades abiertas y autocorrectivas de Edubook para PDI y en "
+"modo offline."
+
+#, fuzzy
+msgid ""
+"Todas las imágenes, animaciones, audios, vídeos y mapas del libro "
+"disponibles para tu PDI."
+msgstr ""
+"Todas las imágenes, animaciones, audios, vídeos y mapas del libro "
+"disponibles para tu PDI."
+
+#, fuzzy
+msgid ""
+"Todo el contenido del libro de texto y las actividades adaptado a la PDI y "
+"en modo offline."
+msgstr ""
+"Todo el contenido del libro de texto y las actividades adaptado a la PDI y "
+"en modo offline."
+
+#, fuzzy
+msgid ""
+"Todos los contenidos de Vicens Vives están diseñados por especialistas en "
+"cada materia y según la legislación vigente."
+msgstr ""
+"Todos los contenidos de Vicens Vives están diseñados por especialistas en "
+"cada materia y según la legislación vigente."
+
+#, fuzzy
+msgid ""
+"Todos los derechos de propiedad intelectual e industrial del contenido de "
+"esta web y su diseño gráfico son propiedad exclusiva de VICENS VIVES y es a "
+"quien le corresponde el ejercicio exclusivo de los derechos de explotación "
+"de los mismos. Así, queda prohibida su reproducción, distribución, "
+"comunicación pública y modificación, total o parcial, sin previa "
+"autorización expresa de VICENS VIVES. De igual forma, todos los signos "
+"distintivos, marcas, nombres comerciales o signos de cualquier clase "
+"contenidos en esta web están protegidos por ley."
+msgstr ""
+"Todos los derechos de propiedad intelectual e industrial del contenido de "
+"esta web y su diseño gráfico son propiedad exclusiva de VICENS VIVES y es a "
+"quien le corresponde el ejercicio exclusivo de los derechos de explotación "
+"de los mismos. Así, queda prohibida su reproducción, distribución, "
+"comunicación pública y modificación, total o parcial, sin previa "
+"autorización expresa de VICENS VIVES. De igual forma, todos los signos "
+"distintivos, marcas, nombres comerciales o signos de cualquier clase "
+"contenidos en esta web están protegidos por ley."
+
+#, fuzzy
+msgid "Ubuntu 12 o superior."
+msgstr "Ubuntu 12 o superior."
+
+#, fuzzy
+msgid ""
+"Ubuntu 12 o superior.<br>Guadalinex EDU 2013 o superior.<br>Mínimo 1GB of "
+"RAM (Recomendado 2GB)."
+msgstr ""
+"Ubuntu 12 o superior.<br>Guadalinex EDU 2013 o superior.<br>Mínimo 1GB of "
+"RAM (Recomendado 2GB)."
+
+#, fuzzy
+msgid "Un aprendizaje actual, innovador y de calidad"
+msgstr "Un aprendizaje actual, innovador y de calidad"
+
+#, fuzzy
+msgid ""
+"Un espacio donde aprender y enseñar con los mejores contenidos educativos y "
+"la ayuda de las TIC"
+msgstr ""
+"Un espacio donde aprender y enseñar con los mejores contenidos educativos y "
+"la ayuda de las TIC"
+
+#, fuzzy
+msgid "Un libro de texto digital que se adapta a todas las realidades."
+msgstr "Un libro de texto digital que se adapta a todas las realidades."
+
+#, fuzzy
+msgid "Un libro de texto diseñado para el entorno digital"
+msgstr "Un libro de texto diseñado para el entorno digital"
+
+#, fuzzy
+msgid ""
+"Una cookie (o galleta informática) es una pequeña información enviada por un "
+"sitio web y almacenada en el navegador del usuario, de manera que el sitio "
+"web puede consultar la actividad previa del usuario. Esto significa que una "
+"cookie es un fichero que se descarga en su ordenador, tablet, etc… al "
+"acceder a VICENS VIVES. Las cookies permiten a VICENS VIVES, entre otras "
+"cosas, almacenar y recuperar información sobre el número de visitas de los "
+"usuarios, los hábitos de navegación en VICENS VIVES, y, dependiendo de la "
+"información que contengan y de la forma en que utilice su equipo, pueden "
+"utilizarse para reconocer a los usuarios."
+msgstr ""
+"Una cookie (o galleta informática) es una pequeña información enviada por un "
+"sitio web y almacenada en el navegador del usuario, de manera que el sitio "
+"web puede consultar la actividad previa del usuario. Esto significa que una "
+"cookie es un fichero que se descarga en su ordenador, tablet, etc… al "
+"acceder a VICENS VIVES. Las cookies permiten a VICENS VIVES, entre otras "
+"cosas, almacenar y recuperar información sobre el número de visitas de los "
+"usuarios, los hábitos de navegación en VICENS VIVES, y, dependiendo de la "
+"información que contengan y de la forma en que utilice su equipo, pueden "
+"utilizarse para reconocer a los usuarios."
+
+#, fuzzy
+msgid ""
+"Una solución completa que se adapta a la realidad de cada aula facilitando "
+"la incorporación de las TIC y acompañando el proceso de aprendizaje"
+msgstr ""
+"Una solución completa que se adapta a la realidad de cada aula facilitando "
+"la incorporación de las TIC y acompañando el proceso de aprendizaje"
+
+#, fuzzy
+msgid ""
+"Una vez que el usuario dé de baja su cuenta no podrá recuperarla. Así pues, "
+"si el usuario quiere volver a darse de alta en VICENS VIVES tendrá que "
+"iniciar el proceso de registro de nuevo."
+msgstr ""
+"Una vez que el usuario dé de baja su cuenta no podrá recuperarla. Así pues, "
+"si el usuario quiere volver a darse de alta en VICENS VIVES tendrá que "
+"iniciar el proceso de registro de nuevo."
+
+#, fuzzy
+msgid ""
+"Una vez registrado el familiar, el usuario deberá proporcionar la siguiente "
+"información para proceder a registrar un usuario menor de 14 años:"
+msgstr ""
+"Una vez registrado el familiar, el usuario deberá proporcionar la siguiente "
+"información para proceder a registrar un usuario menor de 14 años:"
+
+#, fuzzy
+msgid ""
+"VICENS VIVES garantiza la seguridad y privacidad de los datos de perfil de "
+"los usuarios."
+msgstr ""
+"VICENS VIVES garantiza la seguridad y privacidad de los datos de perfil de "
+"los usuarios."
+
+#, fuzzy
+msgid ""
+"VICENS VIVES incluirá los datos facilitados por el usuario en un fichero de "
+"titularidad privada que contará con todas las medidas de seguridad "
+"necesarias y exigidas por la normativa vigente en materia de Protección de "
+"Datos."
+msgstr ""
+"VICENS VIVES incluirá los datos facilitados por el usuario en un fichero de "
+"titularidad privada que contará con todas las medidas de seguridad "
+"necesarias y exigidas por la normativa vigente en materia de Protección de "
+"Datos."
+
+#, fuzzy
+msgid ""
+"VICENS VIVES no asume responsabilidad alguna derivada de problemas técnicos "
+"o fallos en los equipos informáticos que se produzcan durante la conexión a "
+"Internet o que puedan ser originados por terceras personas a través de "
+"intromisiones ilegítimas fuera de su control."
+msgstr ""
+"VICENS VIVES no asume responsabilidad alguna derivada de problemas técnicos "
+"o fallos en los equipos informáticos que se produzcan durante la conexión a "
+"Internet o que puedan ser originados por terceras personas a través de "
+"intromisiones ilegítimas fuera de su control."
+
+#, fuzzy
+msgid ""
+"VICENS VIVES no cederá o comunicará a terceros los datos recabados sin "
+"previo consentimiento expreso del usuario, excepto en el caso de que la "
+"comunicación sea necesaria para prestar el servicio que el usuario haya "
+"solicitado."
+msgstr ""
+"VICENS VIVES no cederá o comunicará a terceros los datos recabados sin "
+"previo consentimiento expreso del usuario, excepto en el caso de que la "
+"comunicación sea necesaria para prestar el servicio que el usuario haya "
+"solicitado."
+
+#, fuzzy
+msgid ""
+"VICENS VIVES no enviará información publicitaria de terceros a los usuarios "
+"de los distintos servicios digitales de VICENS VIVES sin haber recabado la "
+"autorización expresa para ello."
+msgstr ""
+"VICENS VIVES no enviará información publicitaria de terceros a los usuarios "
+"de los distintos servicios digitales de VICENS VIVES sin haber recabado la "
+"autorización expresa para ello."
+
+#, fuzzy
+msgid ""
+"VICENS VIVES podrá remitir a los usuarios distintas comunicaciones "
+"publicitarias y notificaciones relacionados con los servicios y novedades "
+"que ofrece VICENS VIVES, siempre que tenga la autorización para ello. En "
+"ningún caso, VICENS VIVES enviará comunicaciones publicitarias, propias o de "
+"terceros, a usuarios registrados como ALUMNO."
+msgstr ""
+"VICENS VIVES podrá remitir a los usuarios distintas comunicaciones "
+"publicitarias y notificaciones relacionados con los servicios y novedades "
+"que ofrece VICENS VIVES, siempre que tenga la autorización para ello. En "
+"ningún caso, VICENS VIVES enviará comunicaciones publicitarias, propias o de "
+"terceros, a usuarios registrados como ALUMNO."
+
+#, fuzzy
+msgid ""
+"VICENS VIVES pone toda las medidas de seguridad necesarias para garantizar "
+"la ausencia de virus y otros elementos que puedan causar daños en los "
+"sistemas informáticos, los documentos electrónicos o los ficheros de usuario "
+"de esta web o de páginas web de terceros, no obstante, no se responsabiliza "
+"de los daños y perjuicios que se puedan llegar a producir por estos motivos."
+msgstr ""
+"VICENS VIVES pone toda las medidas de seguridad necesarias para garantizar "
+"la ausencia de virus y otros elementos que puedan causar daños en los "
+"sistemas informáticos, los documentos electrónicos o los ficheros de usuario "
+"de esta web o de páginas web de terceros, no obstante, no se responsabiliza "
+"de los daños y perjuicios que se puedan llegar a producir por estos motivos."
+
+#, fuzzy
+msgid ""
+"VICENS VIVES recomienda acceder siempre a la información de soporte más "
+"actualizada de cada navegador para conocer la manera correcta de gestionar o "
+"eliminar las cookies."
+msgstr ""
+"VICENS VIVES recomienda acceder siempre a la información de soporte más "
+"actualizada de cada navegador para conocer la manera correcta de gestionar o "
+"eliminar las cookies."
+
+#, fuzzy
+msgid "Valores"
+msgstr "Valores"
+
+#, fuzzy
+msgid "Ver aplicaciones"
+msgstr "Ver aplicaciones"
+
+#, fuzzy
+msgid "Ver más"
+msgstr "Ver más"
+
+#, fuzzy
+msgid "Versión offline. PDI"
+msgstr "Versión offline. PDI"
+
+#, fuzzy
+msgid "Versión online"
+msgstr "Versión online"
+
+#, fuzzy
+msgid ""
+"Vicens Vives cuenta con más de 50 años de experiencia dedicada "
+"exclusivamente a la creación de contenido didáctico para todas las etapas "
+"educativas."
+msgstr ""
+"Vicens Vives cuenta con más de 50 años de experiencia dedicada "
+"exclusivamente a la creación de contenido didáctico para todas las etapas "
+"educativas."
+
+#, fuzzy
+msgid ""
+"Vicens Vives ha desarrollado <b>5 plugins</b> que hacen uso del protocolo "
+"LTI para que la integración de Edubook en Moodle sea ágil, rápida y sencilla."
+msgstr ""
+"Vicens Vives ha desarrollado <b>5 plugins</b> que hacen uso del protocolo "
+"LTI para que la integración de Edubook en Moodle sea ágil, rápida y sencilla."
+
+#, fuzzy
+msgid ""
+"Visualiza el contenido del libro en la <b>PDI</b> cuando estés en clase, "
+"propón las <b>actividades</b> que realizarán los alumnos en casa a través de "
+"su tableta o ordenador y recibe las calificaciones del alumnado de manera "
+"automática en tus dispositivos."
+msgstr ""
+"Visualiza el contenido del libro en la <b>PDI</b> cuando estés en clase, "
+"propón las <b>actividades</b> que realizarán los alumnos en casa a través de "
+"su tableta o ordenador y recibe las calificaciones del alumnado de manera "
+"automática en tus dispositivos."
+
+#, fuzzy
+msgid "Volver a cargar"
+msgstr "Volver a cargar"
+
+#, fuzzy
+msgid "Volver a la página de inicio"
+msgstr "Volver a la página de inicio"
+
+#, fuzzy
+msgid ""
+"Vuelve a escribirlo o <a class=\"cover\" href=\"/\">consigue una licencia</a>"
+msgstr ""
+"Vuelve a escribirlo o <a class=\"cover\" href=\"/\">consigue una licencia</a>"
+
+#, fuzzy
+msgid "Web Service"
+msgstr "Web Service"
+
+#, fuzzy
+msgid "Web Service."
+msgstr "Web Service."
+
+#, fuzzy
+msgid "Window 7 o superior.<br/>Mínimo 1GB of RAM (Recomendado 2GB)."
+msgstr "Window 7 o superior.<br/>Mínimo 1GB of RAM (Recomendado 2GB)."
+
+#, fuzzy
+msgid "Windows"
+msgstr "Windows"
+
+#, fuzzy
+msgid "Windows 7 o superior."
+msgstr "Windows 7 o superior."
+
+#, fuzzy
+msgid "iOS 7.0 o posterior.<br/>Compatible con iPad."
+msgstr "iOS 7.0 o posterior.<br/>Compatible con iPad."
+
+#, fuzzy
+msgid "iOs"
+msgstr "iOs"
+
+#, fuzzy
+msgid "¡Con actualizaciones y mejoras constantes!"
+msgstr "¡Con actualizaciones y mejoras constantes!"
+
+#, fuzzy
+msgid "¡Descarga la nueva aplicación de Edubook para el curso 2015/16!"
+msgstr "¡Descarga la nueva aplicación de Edubook para el curso 2015/16!"
+
+#, fuzzy
+msgid "¡Empieza ahora!"
+msgstr "¡Empieza ahora!"
+
+#, fuzzy
+msgid "¡En breve podrás probar Edubook!"
+msgstr "¡En breve podrás probar Edubook!"
+
+#, fuzzy
+msgid "¡Hemos recibido tu petición!"
+msgstr "¡Hemos recibido tu petición!"
+
+#, fuzzy
+msgid "¡Licencia validada correctamente!"
+msgstr "¡Licencia validada correctamente!"
+
+#, fuzzy
+msgid "¡Mucho más online!"
+msgstr "¡Mucho más online!"
+
+#, fuzzy
+msgid "¡Solicita una demo para docentes!"
+msgstr "¡Solicita una demo para docentes!"
+
+#, fuzzy
+msgid "¿Aún no tienes una licencia?"
+msgstr "¿Aún no tienes una licencia?"
+
+#, fuzzy
+msgid "¿Dónde estamos?"
+msgstr "¿Dónde estamos?"
+
+#, fuzzy
+msgid "¿Eres Alumno o su tutor?"
+msgstr "¿Eres Alumno o su tutor?"
+
+#, fuzzy
+msgid "¿Eres mayor de 14 años?"
+msgstr "¿Eres mayor de 14 años?"
+
+#, fuzzy
+msgid "¿Eres menor de 14 años?"
+msgstr "¿Eres menor de 14 años?"
+
+#, fuzzy
+msgid "¿Eres nuevo?"
+msgstr "¿Eres nuevo?"
+
+#, fuzzy
+msgid "¿Has olvidado la <a><b><u>contraseña</u></b></a>?"
+msgstr "¿Has olvidado la <a><b><u>contraseña</u></b></a>?"
+
+#, fuzzy
+msgid "¿Por qué elegir Edubook?"
+msgstr "¿Por qué elegir Edubook?"
+
+#, fuzzy
+msgid "¿Quieres empezar a utilizar Edubook?"
+msgstr "¿Quieres empezar a utilizar Edubook?"
+
+#, fuzzy
+msgid "¿Quieres probar Edubook?"
+msgstr "¿Quieres probar Edubook?"
+
+#, fuzzy
+msgid "¿Quiénes somos?"
+msgstr "¿Quiénes somos?"
+
+#, fuzzy
+msgid "¿Qué es Edubook?"
+msgstr "¿Qué es Edubook?"
+
+#, fuzzy
+msgid "¿Qué es una licencia digital?"
+msgstr "¿Qué es una licencia digital?"
+
+#, fuzzy
+msgid "¿Qué me ofrece Edubook?"
+msgstr "¿Qué me ofrece Edubook?"
+
+#, fuzzy
+msgid "¿Todavía no tienes una cuenta? <b>Regístrate</b>"
+msgstr "¿Todavía no tienes una cuenta? <b>Regístrate</b>"
+
+#, fuzzy
+msgid "¿Ya tienes una cuenta?"
+msgstr "¿Ya tienes una cuenta?"

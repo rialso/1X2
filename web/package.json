@@ -1,0 +1,16 @@
+{
+  "name": "1X2",
+  "version": "0.0.1",
+  "description": "1X2",
+  "dependencies": {
+    "i18next": "^2.5.1",
+    "mustache": "^2.0.0",
+    "requirejs": "^2.1.17",
+
+    "farm-base":"^0.0.7",
+    "farm-section":"^0.0.2",
+    "farm-icons":"^0.0.1",
+    "farm-router":"^0.0.1",
+    "farm-browser":"^0.0.1"
+  }
+}
