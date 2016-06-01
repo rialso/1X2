@@ -1,10 +1,12 @@
 
 
-var url = 'http://www.resultados-futbol.com/scripts/api/api.php';
+//var url = 'http://www.resultados-futbol.com/scripts/api/api.php';
 //var url = 'http://5.39.74.137/scripts/api/api.php';
-var key = '94c694751928db22f60b189594f8c5b6';
-var tz  = 'Europe/Madrid';
-var req = 'quiniela';
+//var key = '94c694751928db22f60b189594f8c5b6';
+
+var c_api   = require('../config_api');
+//var tz      = 'Europe/Madrid';
+//var req     = 'quiniela';
 //var round = 38;
 
 
@@ -27,7 +29,7 @@ exports.quiniela = function(round){
         // });
 
         request({
-            url: url+'?key='+key+'&format=json&req='+req+'&tz='+tz+'&round='+round,
+            url: c_api.url+'?key='+c_api.key+'&format=json&req='+c_api.quini+'&tz='+c_api.tz+'&round='+round,
             json: true
         }, function (error, response, body) {
 
