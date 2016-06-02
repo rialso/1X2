@@ -18,6 +18,8 @@ farm.f.c = ({
 
         _pruebas        :'css/_pruebas',
 
+        quiniela_create :'css/quiniela_create',
+
         login           :'css/login',
         home            :'css/home',
 

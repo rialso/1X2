@@ -107,8 +107,11 @@ function(utils, call) {
                     ns      :'base',
                     tpl     :tpl_quiniela,
                     elem    :_panel_quiniela,
-                    data    : response
+                    data    :response
                 });
+
+
+
 
 
                 var _box_quiniela = document.querySelector(".box-quiniela");
@@ -123,8 +126,11 @@ function(utils, call) {
                     ns      :'base',
                     tpl     :tpl_quiniela_create,
                     elem    :_panel_quiniela_create,
-                    data    : response
+                    data    :response
                 });
+
+
+
             }
 
         }, function(error) {

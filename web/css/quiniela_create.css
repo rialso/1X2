@@ -1,0 +1,60 @@
+
+input[type=radio] {
+    display: none;
+}
+
+
+
+
+label.uno,
+label.ixs,
+label.dos {
+  display: inline-block;
+  cursor: pointer;
+  position: relative;
+  /*margin-right: 15px;*/
+  font-size: 13px;
+    line-height: 18px;
+}
+
+label.uno:before,
+label.ixs:before,
+label.dos:before {
+
+  display: inline-block;
+
+    text-align: center;
+    color: #FA9D93;
+
+
+    border: 1px solid #FA9D93;
+    width: 16px;
+    height: 18px;
+}
+
+/*label.uno:before {
+  border-radius: 8px;
+}*/
+
+input.uno:checked + label.uno:before,
+input.ixs:checked + label.ixs:before,
+input.dos:checked + label.dos:before {
+
+/*    text-align: center;
+    line-height: 18px;*/
+    color: black;
+    font-weight: bold;
+    background-color: orange;
+
+    border: 1px solid #FA9D93;
+}
+
+
+
+label.uno:before,
+input.uno:checked + label.uno:before { content: "1";}
+label.ixs:before,
+input.ixs:checked + label.ixs:before { content: "X";}
+label.dos:before,
+input.dos:checked + label.dos:before { content: "2";}
+
